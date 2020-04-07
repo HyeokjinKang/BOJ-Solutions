@@ -14,7 +14,7 @@
   <tr>
     <td>2020-04-08</td>
     <td>Bronze I</td>
-    <td>[1340](http://noj.am/1340)</td>
+    <td><a href="http://noj.am/1340">1340</a></td>
     <td>연도 진행바</td>
   </tr>
 </table>
