@@ -11,7 +11,7 @@
     <th>제목</th>
   </tr>
   <tr>
-    <td rowspan="5">2020-04-08</td>
+    <td rowspan="6">2020-04-08</td>
     <td><a href="http://noj.am/1340">1340</a></td>
     <td><img src="https://static.solved.ac/tier_small/5.svg" alt="Bronze I" width="10"/> 연도 진행바</td>
   </tr>
