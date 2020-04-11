@@ -46,4 +46,17 @@
     <td><a href="http://noj.am/3213">3213</a></td>
     <td><img src="https://static.solved.ac/tier_small/8.svg" alt="Silver III" width="10"/> 피자</td>
   </tr>
+  <tr>
+    <td rowspan="3">2020-04-12</td>
+    <td><a href="http://noj.am/1001">1001</a></td>
+    <td><img src="https://static.solved.ac/tier_small/1.svg" alt="Bronze V" width="10"/> A-B</td>
+  </tr>
+  <tr>
+    <td><a href="http://noj.am/10998">10998</a></td>
+    <td><img src="https://static.solved.ac/tier_small/1.svg" alt="Bronze V" width="10"/> A×B</td>
+  </tr>
+  <tr>
+    <td><a href="http://noj.am/1008">1008</a></td>
+    <td><img src="https://static.solved.ac/tier_small/1.svg" alt="Bronze V" width="10"/> A/B</td>
+  </tr>
 </table>
