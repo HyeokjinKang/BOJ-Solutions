@@ -47,7 +47,7 @@
     <td><img src="https://static.solved.ac/tier_small/8.svg" alt="Silver III" width="10"/> 피자</td>
   </tr>
   <tr>
-    <td rowspan="3">2020-04-12</td>
+    <td rowspan="6">2020-04-12</td>
     <td><a href="http://noj.am/1001">1001</a></td>
     <td><img src="https://static.solved.ac/tier_small/1.svg" alt="Bronze V" width="10"/> A-B</td>
   </tr>
@@ -57,6 +57,18 @@
   </tr>
   <tr>
     <td><a href="http://noj.am/1008">1008</a></td>
-    <td><img src="https://static.solved.ac/tier_small/1.svg" alt="Bronze V" width="10"/> A/B</td>
+    <td><img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="10"/> A/B</td>
+  </tr>
+  <tr>
+    <td><a href="http://noj.am/10869">10869</a></td>
+    <td><img src="https://static.solved.ac/tier_small/1.svg" alt="Bronze V" width="10"/> 사칙연산</td>
+  </tr>
+  <tr>
+    <td><a href="http://noj.am/10430">10430</a></td>
+    <td><img src="https://static.solved.ac/tier_small/1.svg" alt="Bronze V" width="10"/> 나머지</td>
+  </tr>
+  <tr>
+    <td><a href="http://noj.am/2588">2588</a></td>
+    <td><img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="10"/> 곱셈</td>
   </tr>
 </table>
