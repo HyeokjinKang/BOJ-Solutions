@@ -47,7 +47,7 @@
     <td><img src="https://static.solved.ac/tier_small/8.svg" alt="Silver III" width="10"/> 피자</td>
   </tr>
   <tr>
-    <td rowspan="6">2020-04-12</td>
+    <td rowspan="8">2020-04-12</td>
     <td><a href="http://noj.am/1001">1001</a></td>
     <td><img src="https://static.solved.ac/tier_small/1.svg" alt="Bronze V" width="10"/> A-B</td>
   </tr>
@@ -70,5 +70,13 @@
   <tr>
     <td><a href="http://noj.am/2588">2588</a></td>
     <td><img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="10"/> 곱셈</td>
+  </tr>
+  <tr>
+    <td><a href="http://noj.am/3447">3447</a></td>
+    <td><img src="https://static.solved.ac/tier_small/5.svg" alt="Bronze I" width="10"/> 버그왕</td>
+  </tr>
+  <tr>
+    <td><a href="http://noj.am/9461">9461</a></td>
+    <td><img src="https://static.solved.ac/tier_small/8.svg" alt="Silver III" width="10"/> 파도반 수열</td>
   </tr>
 </table>
