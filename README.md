@@ -2,7 +2,7 @@
 ![BOJSolution](./main.png)
 > CreDible의 Node.js를 이용한 Baekjoon Online Judge풀이
 
-## 진행상황
+## 푼 문제
 
 <table>
   <tr>
