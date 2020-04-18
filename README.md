@@ -84,4 +84,9 @@
     <td><a href="http://noj.am/14648">14648</a></td>
     <td><img src="https://static.solved.ac/tier_small/5.svg" alt="Bronze I" width="10"/> 쿼리 맛보기</td>
   </tr>
+  <tr>
+    <td rowspan="1">2020-04-18</td>
+    <td><a href="http://noj.am/9933">9933</a></td>
+    <td><img src="https://static.solved.ac/tier_small/5.svg" alt="Bronze I" width="10"/> 민균이의 비밀번호</td>
+  </tr>
 </table>
