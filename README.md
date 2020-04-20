@@ -1,6 +1,6 @@
-# CreDible
+# Coupy
 ![BOJSolution](./main.png)
-> CreDible의 Node.js를 이용한 Baekjoon Online Judge풀이
+> Coupy의 Node.js를 이용한 Baekjoon Online Judge풀이
 
 ## 푼 문제
 
