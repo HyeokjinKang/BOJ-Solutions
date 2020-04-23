@@ -89,4 +89,25 @@
     <td><a href="http://noj.am/9933">9933</a></td>
     <td><img src="https://static.solved.ac/tier_small/5.svg" alt="Bronze I" width="10"/> 민균이의 비밀번호</td>
   </tr>
+  <tr>
+    <td rowspan="5">2020-04-23</td>
+    <td><a href="http://noj.am/1330">1330</a></td>
+    <td><img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="10"/> 두 수 비교하기</td>
+  </tr>
+  <tr>
+    <td><a href="http://noj.am/9498">9498</a></td>
+    <td><img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="10"/> 시험 성적</td>
+  </tr>
+  <tr>
+    <td><a href="http://noj.am/2753">2753</a></td>
+    <td><img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="10"/> 윤년</td>
+  </tr>
+  <tr>
+    <td><a href="http://noj.am/14681">14681</a></td>
+    <td><img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="10"/> 사분면 고르기</td>
+  </tr>
+  <tr>
+    <td><a href="http://noj.am/2884">2884</a></td>
+    <td><img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="10"/> 알람 시계</td>
+  </tr>
 </table>
