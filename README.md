@@ -1,4 +1,4 @@
-# Coupy
+# Nodejs-BOJ
 ![BOJSolution](./main.png)
 > Coupy의 Node.js를 이용한 Baekjoon Online Judge풀이
 
