@@ -90,7 +90,7 @@
     <td><img src="https://static.solved.ac/tier_small/5.svg" alt="Bronze I" width="10"/> 민균이의 비밀번호</td>
   </tr>
   <tr>
-    <td rowspan="5">2020-04-23</td>
+    <td rowspan="9">2020-04-23</td>
     <td><a href="http://noj.am/1330">1330</a></td>
     <td><img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="10"/> 두 수 비교하기</td>
   </tr>
@@ -109,5 +109,21 @@
   <tr>
     <td><a href="http://noj.am/2884">2884</a></td>
     <td><img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="10"/> 알람 시계</td>
+  </tr>
+  <tr>
+    <td><a href="http://noj.am/2739">2739</a></td>
+    <td><img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="10"/> 구구단</td>
+  </tr>
+  <tr>
+    <td><a href="http://noj.am/10950">10950</a></td>
+    <td><img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="10"/> A+B - 3</td>
+  </tr>
+  <tr>
+    <td><a href="http://noj.am/8393">8393</a></td>
+    <td><img src="https://static.solved.ac/tier_small/1.svg" alt="Bronze V" width="10"/> 합</td>
+  </tr>
+  <tr>
+    <td><a href="http://noj.am/15552">15552</a></td>
+    <td><img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="10"/> 빠른 A+B</td>
   </tr>
 </table>
