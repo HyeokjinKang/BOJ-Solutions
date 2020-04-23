@@ -1,6 +1,6 @@
-# CreDible
+# Nodejs-BOJ
 ![BOJSolution](./main.png)
-> CreDible의 Node.js를 이용한 Baekjoon Online Judge풀이
+> Node.js를 이용한 Baekjoon Online Judge풀이
 
 ## 푼 문제
 
