@@ -126,4 +126,33 @@
     <td><a href="http://noj.am/15552">15552</a></td>
     <td><img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="10"/> 빠른 A+B</td>
   </tr>
+  <tr>
+    <td rowspan="7">2020-04-24</td>
+    <td><a href="http://noj.am/2741">2741</a></td>
+    <td><img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="10"/> N 찍기</td>
+  </tr>
+  <tr>
+    <td><a href="http://noj.am/2742">2742</a></td>
+    <td><img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="10"/> 기찍 N</td>
+  </tr>
+  <tr>
+    <td><a href="http://noj.am/11021">11021</a></td>
+    <td><img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="10"/> A+B - 7</td>
+  </tr>
+  <tr>
+    <td><a href="http://noj.am/11022">11022</a></td>
+    <td><img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="10"/> A+B - 8</td>
+  </tr>
+  <tr>
+    <td><a href="http://noj.am/2438">2438</a></td>
+    <td><img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="10"/> 별 찍기 - 1</td>
+  </tr>
+  <tr>
+    <td><a href="http://noj.am/2439">2439</a></td>
+    <td><img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="10"/> 별 찍기 - 2</td>
+  </tr>
+  <tr>
+    <td><a href="http://noj.am/10871">10871</a></td>
+    <td><img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="10"/> X보다 작은 수</td>
+  </tr>
 </table>
