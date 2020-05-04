@@ -5,8 +5,10 @@ const rl = readline.createInterface({
 });
 
 rl.on("line", function(line) {
-  const [a, b] = line.split(' ').map(i => parseInt(i));
-  console.log(a - b);
+  line = line.split('').map(i => i.charCodeAt(0));
+  for(i = 1; i <= 26; i++) {
+    console.log(String.fromCharCode(line).map(j => j + i));
+  }
   rl.close();
 }).on("close", function() {
   process.exit();
