@@ -155,4 +155,17 @@
     <td><a href="http://noj.am/10871">10871</a></td>
     <td><img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="10"/> X보다 작은 수</td>
   </tr>
+  <tr>
+    <td rowspan="3">2020-05-08</td>
+    <td><a href="http://noj.am/10952">10952</a></td>
+    <td><img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="10"/> A+B - 5</td>
+  </tr>
+  <tr>
+    <td><a href="http://noj.am/10951">10951</a></td>
+    <td><img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="10"/> A+B - 4</td>
+  </tr>
+  <tr>
+    <td><a href="http://noj.am/1110">1110</a></td>
+    <td><img src="https://static.solved.ac/tier_small/5.svg" alt="Bronze I" width="10"/> 더하기 사이클</td>
+  </tr>
 </table>
