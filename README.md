@@ -168,4 +168,29 @@
     <td><a href="http://noj.am/1110">1110</a></td>
     <td><img src="https://static.solved.ac/tier_small/5.svg" alt="Bronze I" width="10"/> 더하기 사이클</td>
   </tr>
+  <tr>
+    <td rowspan="6">2020-05-11</td>
+    <td><a href="http://noj.am/10039">10039</a></td>
+    <td><img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="10"/> 평균 점수</td>
+  </tr>
+  <tr>
+    <td><a href="http://noj.am/5543">5543</a></td>
+    <td><img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="10"/> 상근날드</td>
+  </tr>
+  <tr>
+    <td><a href="http://noj.am/10817">10817</a></td>
+    <td><img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="10"/> 세 수</td>
+  </tr>
+  <tr>
+    <td><a href="http://noj.am/2523">2523</a></td>
+    <td><img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="10"/> 별 찍기 - 13</td>
+  </tr>
+  <tr>
+    <td><a href="http://noj.am/2446">2446</a></td>
+    <td><img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="10"/> 별 찍기 - 9</td>
+  </tr>
+  <tr>
+    <td><a href="http://noj.am/10996">10996</a></td>
+    <td><img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="10"/> 별 찍기 - 21</td>
+  </tr>
 </table>
