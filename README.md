@@ -193,4 +193,33 @@
     <td><a href="http://noj.am/10996">10996</a></td>
     <td><img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="10"/> 별 찍기 - 21</td>
   </tr>
+  <tr>
+    <td rowspan="7">2020-05-13</td>
+    <td><a href="http://noj.am/10818">10818</a></td>
+    <td><img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="10"/> 최소, 최대</td>
+  </tr>
+  <tr>
+    <td><a href="http://noj.am/2562">2562</a></td>
+    <td><img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="10"/> 최댓값</td>
+  </tr>
+  <tr>
+    <td><a href="http://noj.am/2577">2577</a></td>
+    <td><img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="10"/> 숫자의 개수</td>
+  </tr>
+  <tr>
+    <td><a href="http://noj.am/3052">3052</a></td>
+    <td><img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="10"/> 나머지</td>
+  </tr>
+  <tr>
+    <td><a href="http://noj.am/1546">1546</a></td>
+    <td><img src="https://static.solved.ac/tier_small/5.svg" alt="Bronze I" width="10"/> 평균</td>
+  </tr>
+  <tr>
+    <td><a href="http://noj.am/8958">8958</a></td>
+    <td><img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="10"/> OX퀴즈</td>
+  </tr>
+  <tr>
+    <td><a href="http://noj.am/4344">4344</a></td>
+    <td><img src="https://static.solved.ac/tier_small/5.svg" alt="Bronze I" width="10"/> 평균은 넘겠지</td>
+  </tr>
 </table>
