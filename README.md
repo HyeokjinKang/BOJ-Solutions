@@ -222,4 +222,9 @@
     <td><a href="http://noj.am/4344">4344</a></td>
     <td><img src="https://static.solved.ac/tier_small/5.svg" alt="Bronze I" width="10"/> 평균은 넘겠지</td>
   </tr>
+  <tr>
+    <td rowspan="1">2020-05-14</td>
+    <td><a href="http://noj.am/11383">11383</a></td>
+    <td><img src="https://static.solved.ac/tier_small/5.svg" alt="Bronze I" width="10"/> 뚊</td>
+  </tr>
 </table>
