@@ -9,6 +9,7 @@
     <th>날짜</th>
     <th>문제번호</th>
     <th>제목</th>
+    <th>참고</th>
   </tr>
   <tr>
     <td rowspan="3">2020-04-08</td>
@@ -226,6 +227,11 @@
     <td rowspan="3">2020-05-14</td>
     <td><a href="http://noj.am/11383">11383</a></td>
     <td><img src="https://static.solved.ac/tier_small/5.svg" alt="Bronze I" width="10"/> 뚊</td>
+  </tr>
+  <tr>
+    <td><a href="http://noj.am/15596">15596</a></td>
+    <td><img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="10"/> 정수 N개의 합</td>
+    <td>제출 언어 제한 문제, python으로 풀었습니다.</td>
   </tr>
   <tr>
     <td><a href="http://noj.am/4673">4673</a></td>
