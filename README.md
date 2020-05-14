@@ -223,8 +223,16 @@
     <td><img src="https://static.solved.ac/tier_small/5.svg" alt="Bronze I" width="10"/> 평균은 넘겠지</td>
   </tr>
   <tr>
-    <td rowspan="1">2020-05-14</td>
+    <td rowspan="3">2020-05-14</td>
     <td><a href="http://noj.am/11383">11383</a></td>
     <td><img src="https://static.solved.ac/tier_small/5.svg" alt="Bronze I" width="10"/> 뚊</td>
+  </tr>
+  <tr>
+    <td><a href="http://noj.am/4673">4673</a></td>
+    <td><img src="https://static.solved.ac/tier_small/5.svg" alt="Bronze I" width="10"/> 셀프 넘버</td>
+  </tr>
+  <tr>
+    <td><a href="http://noj.am/1065">1065</a></td>
+    <td><img src="https://static.solved.ac/tier_small/7.svg" alt="Silver IV" width="10"/> 한수</td>
   </tr>
 </table>
