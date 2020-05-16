@@ -294,4 +294,56 @@
     <td><img src="https://static.solved.ac/tier_small/7.svg" alt="Silver IV" width="10"/> 한수</td>
     <td></td>
   </tr>
+  <tr>
+    <td rowspan="8">2020-05-15</td>
+    <td><a href="http://noj.am/11654">11654</a></td>
+    <td><img src="https://static.solved.ac/tier_small/1.svg" alt="Bronze V" width="10"/> 아스키 코드</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="http://noj.am/11720">11720</a></td>
+    <td><img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="10"/> 숫자의 합</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="http://noj.am/10809">10809</a></td>
+    <td><img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="10"/> 알파벳 찾기</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="http://noj.am/2675">2675</a></td>
+    <td><img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="10"/> 문자열 반복</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="http://noj.am/1157">1157</a></td>
+    <td><img src="https://static.solved.ac/tier_small/5.svg" alt="Bronze I" width="10"/> 단어 공부</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="http://noj.am/1152">1152</a></td>
+    <td><img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="10"/> 단어의 개수</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="http://noj.am/2908">2908</a></td>
+    <td><img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="10"/> 상수</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="http://noj.am/5622">5622</a></td>
+    <td><img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="10"/> 다이얼</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="2">2020-05-16</td>
+    <td><a href="http://noj.am/2941">2941</a></td>
+    <td><img src="https://static.solved.ac/tier_small/6.svg" alt="Silver V" width="10"/> 크로아티아 알파벳</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="http://noj.am/1316">1316</a></td>
+    <td><img src="https://static.solved.ac/tier_small/6.svg" alt="Silver V" width="10"/> 그룹 단어 체커</td>
+    <td></td>
+  </tr>
 </table>
