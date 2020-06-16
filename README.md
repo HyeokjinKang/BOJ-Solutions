@@ -346,4 +346,21 @@
     <td><img src="https://static.solved.ac/tier_small/6.svg" alt="Silver V" width="10"/> 그룹 단어 체커</td>
     <td></td>
   </tr>
+  <tr>
+    <td rowspan="2">2020-05-18</td>
+    <td><a href="http://noj.am/1712">1712</a></td>
+    <td><img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="10"/> 손익분기점</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="http://noj.am/2839">2839</a></td>
+    <td><img src="https://static.solved.ac/tier_small/5.svg" alt="Bronze I" width="10"/> 설탕 배달</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="2">2020-06-16</td>
+    <td><a href="http://noj.am/2292">2292</a></td>
+    <td><img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="10"/> 벌집</td>
+    <td></td>
+  </tr>
 </table>
