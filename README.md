@@ -369,4 +369,9 @@
     <td><img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="10"/> 분수찾기</td>
     <td></td>
   </tr>
+  <tr>
+    <td><a href="http://noj.am/2869">2869</a></td>
+    <td><img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="10"/> 달팽이는 올라가고 싶다</td>
+    <td></td>
+  </tr>
 </table>
