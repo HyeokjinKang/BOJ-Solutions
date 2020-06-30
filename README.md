@@ -358,9 +358,15 @@
     <td></td>
   </tr>
   <tr>
-    <td rowspan="2">2020-06-16</td>
+    <td>2020-06-16</td>
     <td><a href="http://noj.am/2292">2292</a></td>
     <td><img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="10"/> 벌집</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2020-06-30</td>
+    <td><a href="http://noj.am/1193">1193</a></td>
+    <td><img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="10"/> 분수찾기</td>
     <td></td>
   </tr>
 </table>
