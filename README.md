@@ -380,6 +380,11 @@
     <td><img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="10"/> ACM 호텔</td>
     <td></td>
   </tr>
+  <tr>
+    <td><a href="http://noj.am/1212">1212</a></td>
+    <td><img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="10"/> 8진수 2진수</td>
+    <td></td>
+  </tr>
   <!--<tr>
     <td><a href="http://noj.am/2775">2775</a></td>
     <td><img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="10"/> 부녀회장이 될테야</td>
