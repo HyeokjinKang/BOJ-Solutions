@@ -374,7 +374,7 @@
     <td><img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="10"/> 달팽이는 올라가고 싶다</td>
     <td></td>
   </tr>
-  <tr>
+  <!--<tr>
     <td><a href="http://noj.am/10250">10250</a></td>
     <td><img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="10"/> ACM 호텔</td>
     <td></td>
@@ -388,5 +388,5 @@
     <td><a href="http://noj.am/1011">1011</a></td>
     <td><img src="https://static.solved.ac/tier_small/9.svg" alt="Silver I" width="10"/> Fly me to the Alpha Centauri</td>
     <td></td>
-  </tr>
+  </tr>-->
 </table>
