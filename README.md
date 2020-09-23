@@ -385,12 +385,13 @@
     <td><img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="10"/> 8진수 2진수</td>
     <td></td>
   </tr>
-  <!--<tr>
+  <tr>
+    <td rowspan="1">2020-09-23</td>
     <td><a href="http://noj.am/2775">2775</a></td>
     <td><img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="10"/> 부녀회장이 될테야</td>
     <td></td>
   </tr>
-  <tr>
+  <!--<tr>
     <td><a href="http://noj.am/1011">1011</a></td>
     <td><img src="https://static.solved.ac/tier_small/9.svg" alt="Silver I" width="10"/> Fly me to the Alpha Centauri</td>
     <td></td>
