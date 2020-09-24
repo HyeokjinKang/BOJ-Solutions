@@ -396,4 +396,15 @@
     <td><img src="https://static.solved.ac/tier_small/9.svg" alt="Silver I" width="10"/> Fly me to the Alpha Centauri</td>
     <td></td>
   </tr>
+  <tr>
+    <td rowspan="2">2020-09-24</td>
+    <td><a href="http://noj.am/1978">1978</a></td>
+    <td><img src="https://static.solved.ac/tier_small/6.svg" alt="Silver 4" width="10"/> 소수 찾기</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="http://noj.am/2581">2581</a></td>
+    <td><img src="https://static.solved.ac/tier_small/6.svg" alt="Silver 4" width="10"/> 소수</td>
+    <td></td>
+  </tr>
 </table>
