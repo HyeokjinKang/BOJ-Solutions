@@ -399,12 +399,18 @@
   <tr>
     <td rowspan="2">2020-09-24</td>
     <td><a href="http://noj.am/1978">1978</a></td>
-    <td><img src="https://static.solved.ac/tier_small/6.svg" alt="Silver 4" width="10"/> 소수 찾기</td>
+    <td><img src="https://static.solved.ac/tier_small/6.svg" alt="Silver IV" width="10"/> 소수 찾기</td>
     <td></td>
   </tr>
   <tr>
     <td><a href="http://noj.am/2581">2581</a></td>
-    <td><img src="https://static.solved.ac/tier_small/6.svg" alt="Silver 4" width="10"/> 소수</td>
+    <td><img src="https://static.solved.ac/tier_small/6.svg" alt="Silver IV" width="10"/> 소수</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2020-09-25</td>
+    <td><a href="http://noj.am/1929">1929</a></td>
+    <td><img src="https://static.solved.ac/tier_small/8.svg" alt="Silver II" width="10"/> 소수 구하기</td>
     <td></td>
   </tr>
 </table>
