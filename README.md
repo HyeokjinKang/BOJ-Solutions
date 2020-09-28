@@ -80,12 +80,12 @@
     <td><img src="https://static.solved.ac/tier_small/8.svg" alt="Silver III" width="10"/> 파도반 수열</td>
   </tr>
   <tr>
-    <td rowspan="1">2020-04-14</td>
+    <td>2020-04-14</td>
     <td><a href="http://noj.am/14648">14648</a></td>
     <td><img src="https://static.solved.ac/tier_small/5.svg" alt="Bronze I" width="10"/> 쿼리 맛보기</td>
   </tr>
   <tr>
-    <td rowspan="1">2020-04-18</td>
+    <td>2020-04-18</td>
     <td><a href="http://noj.am/9933">9933</a></td>
     <td><img src="https://static.solved.ac/tier_small/5.svg" alt="Bronze I" width="10"/> 민균이의 비밀번호</td>
   </tr>
@@ -335,5 +335,10 @@
     <td>2020-09-25</td>
     <td><a href="http://noj.am/1929">1929</a></td>
     <td><img src="https://static.solved.ac/tier_small/8.svg" alt="Silver II" width="10"/> 소수 구하기</td>
+  </tr>
+  <tr>
+    <td>2020-09-28</td>
+    <td><a href="http://noj.am/4948">4948</a></td>
+    <td><img src="https://static.solved.ac/tier_small/8.svg" alt="Silver II" width="10"/> 베르트랑 공준</td>
   </tr>
 </table>
