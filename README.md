@@ -342,7 +342,7 @@
     <td><img src="https://static.solved.ac/tier_small/8.svg" alt="Silver II" width="10"/> 베르트랑 공준</td>
   </tr>
   <tr>
-    <td rowspan="3">2020-12-13</td>
+    <td rowspan="4">2020-12-13</td>
     <td><a href="http://noj.am/9020">9020</a></td>
     <td><img src="https://static.solved.ac/tier_small/9.svg" alt="Silver I" width="10"/> 골드바흐의 추측</td>
   </tr>
@@ -353,5 +353,9 @@
   <tr>
     <td><a href="http://noj.am/3009">3009</a></td>
     <td><img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="10"/> 네 번째 점</td>
+  </tr>
+  <tr>
+    <td><a href="http://noj.am/4153">4153</a></td>
+    <td><img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="10"/> 직각삼각형</td>
   </tr>
 </table>
