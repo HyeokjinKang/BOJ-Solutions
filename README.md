@@ -341,4 +341,9 @@
     <td><a href="http://noj.am/4948">4948</a></td>
     <td><img src="https://static.solved.ac/tier_small/8.svg" alt="Silver II" width="10"/> 베르트랑 공준</td>
   </tr>
+  <tr>
+    <td>2020-12-13</td>
+    <td><a href="http://noj.am/9020">9020</a></td>
+    <td><img src="https://static.solved.ac/tier_small/9.svg" alt="Silver I" width="10"/> 골드바흐의 추측</td>
+  </tr>
 </table>
