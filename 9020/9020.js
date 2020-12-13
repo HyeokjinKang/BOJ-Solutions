@@ -2,7 +2,6 @@ const rl = require("readline").createInterface(process.stdin, process.stdout);
 
 let isFirst = 1;
 let primeArray = [2];
-let judgeArray = [];
 
 for(let i = 2; i <= 5477; i++) {
   let isPrime = 1;
@@ -17,30 +16,35 @@ for(let i = 2; i <= 5477; i++) {
   }
 }
 
-let half = Math.floor((primeArray.length - 1) / 2);
-
-for(let i = 0; half + i < primeArray.length - 1; i++) {
-  judgeArray.push(primeArray[half + i]);
-  judgeArray.push(primeArray[half - i]);
-}
-
-console.log(judgeArray);
-
 rl.on("line", line => {
   if(isFirst) isFirst--;
   else {
     let array = [];
-    let used = new Set();
-    for(let i = judgeArray.indexOf(line); i < judgeArray.length; i++) {
-      if(line > judgeArray[i] && !used.has(judgeArray[i])) {
-        for(let j = 0; j < judgeArray.length; j++) {
-          if(judgeArray[i] + judgeArray[j] == line && !used.has(judgeArray[j])) {
-            array[0] = judgeArray[i];
-            array[1] = judgeArray[j];
-            used.add(judgeArray[i]);
-            used.add(judgeArray[j]);
+    let half = line / 2;
+    for(let i = 0; i < half; i++) {
+      let isPrime = true;
+      for(let j = 0; primeArray[j] <= half + i; j++) {
+        if((half + i) % primeArray[j] == 0 && (half + i) != primeArray[j]) {
+          isPrime = false;
+          break;
+        } else {
+          array[0] = half + i;
+        }
+      }
+      if(isPrime) {
+        for(let j = 0; primeArray[j] <= half - i; j++) {
+          if((half - i) % primeArray[j] == 0 && (half - i) != primeArray[j]) {
+            isPrime = false;
+            break;
+          } else {
+            array[1] = half - i;
           }
         }
+        if(isPrime) {
+          break;
+        }
+      } else {
+        continue;
       }
     }
     if(array[0] > array[1]) {
