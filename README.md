@@ -363,8 +363,12 @@
     <td><img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="10"/> 택시 기하학</td>
   </tr>
   <tr>
-    <td>2020-12-14</td>
+    <td rowspan="2">2020-12-14</td>
     <td><a href="http://noj.am/1237">1237</a></td>
     <td><img src="c" alt="None" width="10"/> 정ㅋ벅ㅋ</td>
+  </tr>
+  <tr>
+    <td><a href="http://noj.am/2555">2555</a></td>
+    <td><img src="c" alt="None" width="10"/> 생일 출력하기</td>
   </tr>
 </table>
