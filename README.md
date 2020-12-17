@@ -365,14 +365,14 @@
   <tr>
     <td rowspan="3">2020-12-14</td>
     <td><a href="http://noj.am/1237">1237</a></td>
-    <td><img src="c" alt="None" width="10"/> 정ㅋ벅ㅋ</td>
+    <td><img src="https://static.solved.ac/tier_small/0.svg" alt="None" width="10"/> 정ㅋ벅ㅋ</td>
   </tr>
   <tr>
     <td><a href="http://noj.am/2555">2555</a></td>
-    <td><img src="c" alt="None" width="10"/> 생일 출력하기</td>
+    <td><img src="https://static.solved.ac/tier_small/0.svg" alt="None" width="10"/> 생일 출력하기</td>
   </tr>
   <tr>
     <td><a href="http://noj.am/2556">2556</a></td>
-    <td><img src="c" alt="None" width="10"/> 별 찍기 - 14</td>
+    <td><img src="https://static.solved.ac/tier_small/0.svg" alt="None" width="10"/> 별 찍기 - 14</td>
   </tr>
 </table>
