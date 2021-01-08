@@ -375,4 +375,9 @@
     <td><a href="http://noj.am/2556">2556</a></td>
     <td><img src="https://static.solved.ac/tier_small/0.svg" alt="None" width="10"/> 별 찍기 - 14</td>
   </tr>
+  <tr>
+    <td rowspan="3">2021-01-08</td>
+    <td><a href="http://noj.am/10757">10757</a></td>
+    <td><img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="10"/> 큰 수 A + B</td>
+  </tr>
 </table>
