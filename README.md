@@ -380,4 +380,8 @@
     <td><a href="http://noj.am/10757">10757</a></td>
     <td><img src="https://static.solved.ac/tier_small/1.svg" alt="Bronze V" width="10"/> 큰 수 A + B</td>
   </tr>
+  <tr>
+    <td><a href="http://noj.am/1002">1002</a></td>
+    <td><img src="https://static.solved.ac/tier_small/6.svg" alt="Silver IV" width="10"/> 터렛</td>
+  </tr>
 </table>
