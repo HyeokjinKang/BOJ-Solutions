@@ -378,6 +378,6 @@
   <tr>
     <td rowspan="3">2021-01-08</td>
     <td><a href="http://noj.am/10757">10757</a></td>
-    <td><img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="10"/> 큰 수 A + B</td>
+    <td><img src="https://static.solved.ac/tier_small/1.svg" alt="Bronze V" width="10"/> 큰 수 A + B</td>
   </tr>
 </table>
