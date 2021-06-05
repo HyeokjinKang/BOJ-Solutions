@@ -376,12 +376,17 @@
     <td><img src="https://static.solved.ac/tier_small/0.svg" alt="None" width="10"/> 별 찍기 - 14</td>
   </tr>
   <tr>
-    <td rowspan="3">2021-01-08</td>
+    <td rowspan="2">2021-01-08</td>
     <td><a href="http://noj.am/10757">10757</a></td>
     <td><img src="https://static.solved.ac/tier_small/1.svg" alt="Bronze V" width="10"/> 큰 수 A + B</td>
   </tr>
   <tr>
     <td><a href="http://noj.am/1002">1002</a></td>
     <td><img src="https://static.solved.ac/tier_small/6.svg" alt="Silver IV" width="10"/> 터렛</td>
+  </tr>
+  <tr>
+    <td>2021-06-01</td>
+    <td><a href="http://noj.am/11653">11653</a></td>
+    <td><img src="https://static.solved.ac/tier_small/6.svg" alt="Silver IV" width="10"/> 소인수분해</td>
   </tr>
 </table>
