@@ -389,4 +389,9 @@
     <td><a href="http://noj.am/11653">11653</a></td>
     <td><img src="https://static.solved.ac/tier_small/6.svg" alt="Silver IV" width="10"/> 소인수분해</td>
   </tr>
+  <tr>
+    <td>2021-08-22</td>
+    <td><a href="http://noj.am/10872">10872</a></td>
+    <td><img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="10"/> 팩토리얼</td>
+  </tr>
 </table>
