@@ -401,7 +401,7 @@
     <td><img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="10"/> 피보나치 수 5</td>
   </tr>
   <tr>
-    <td rowspan="4">2021-08-23</td>
+    <td rowspan="5">2021-08-23</td>
     <td><a href="http://noj.am/2447">2447</a></td>
     <td><img src="https://static.solved.ac/tier_small/9.svg" alt="Silver I" width="10"/> 별 찍기 - 10</td>
   </tr>
@@ -416,5 +416,9 @@
   <tr>
     <td><a href="http://noj.am/2231">2231</a></td>
     <td><img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="10"/> 분해합</td>
+  </tr>
+  <tr>
+    <td><a href="http://noj.am/2231">2231</a></td>
+    <td><img src="https://static.solved.ac/tier_small/1.svg" alt="Bronze V" width="10"/> 검증수</td>
   </tr>
 </table>
