@@ -401,7 +401,7 @@
     <td><img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="10"/> 피보나치 수 5</td>
   </tr>
   <tr>
-    <td rowspan="6">2021-08-23</td>
+    <td rowspan="7">2021-08-23</td>
     <td><a href="http://noj.am/2447">2447</a></td>
     <td><img src="https://static.solved.ac/tier_small/10.svg" alt="Silver I" width="10"/> 별 찍기 - 10</td>
   </tr>
@@ -424,5 +424,9 @@
   <tr>
     <td><a href="http://noj.am/7568">7568</a></td>
     <td><img src="https://static.solved.ac/tier_small/6.svg" alt="Silver V" width="10"/> 덩치</td>
+  </tr>
+  <tr>
+    <td><a href="http://noj.am/1018">1018</a></td>
+    <td><img src="https://static.solved.ac/tier_small/6.svg" alt="Silver V" width="10"/> 체스판 다시 칠하기</td>
   </tr>
 </table>
