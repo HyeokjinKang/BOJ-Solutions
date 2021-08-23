@@ -322,31 +322,31 @@
   </tr>
   <tr>
     <td><a href="http://noj.am/1011">1011</a></td>
-    <td><img src="https://static.solved.ac/tier_small/9.svg" alt="Silver I" width="10"/> Fly me to the Alpha Centauri</td>
+    <td><img src="https://static.solved.ac/tier_small/10.svg" alt="Silver I" width="10"/> Fly me to the Alpha Centauri</td>
   </tr>
   <tr>
     <td rowspan="2">2020-09-24</td>
     <td><a href="http://noj.am/1978">1978</a></td>
-    <td><img src="https://static.solved.ac/tier_small/6.svg" alt="Silver IV" width="10"/> 소수 찾기</td>
+    <td><img src="https://static.solved.ac/tier_small/7.svg" alt="Silver IV" width="10"/> 소수 찾기</td>
   </tr>
   <tr>
     <td><a href="http://noj.am/2581">2581</a></td>
-    <td><img src="https://static.solved.ac/tier_small/6.svg" alt="Silver IV" width="10"/> 소수</td>
+    <td><img src="https://static.solved.ac/tier_small/7.svg" alt="Silver IV" width="10"/> 소수</td>
   </tr>
   <tr>
     <td>2020-09-25</td>
     <td><a href="http://noj.am/1929">1929</a></td>
-    <td><img src="https://static.solved.ac/tier_small/8.svg" alt="Silver II" width="10"/> 소수 구하기</td>
+    <td><img src="https://static.solved.ac/tier_small/9.svg" alt="Silver II" width="10"/> 소수 구하기</td>
   </tr>
   <tr>
     <td>2020-09-28</td>
     <td><a href="http://noj.am/4948">4948</a></td>
-    <td><img src="https://static.solved.ac/tier_small/8.svg" alt="Silver II" width="10"/> 베르트랑 공준</td>
+    <td><img src="https://static.solved.ac/tier_small/9.svg" alt="Silver II" width="10"/> 베르트랑 공준</td>
   </tr>
   <tr>
     <td rowspan="5">2020-12-13</td>
     <td><a href="http://noj.am/9020">9020</a></td>
-    <td><img src="https://static.solved.ac/tier_small/9.svg" alt="Silver I" width="10"/> 골드바흐의 추측</td>
+    <td><img src="https://static.solved.ac/tier_small/10.svg" alt="Silver I" width="10"/> 골드바흐의 추측</td>
   </tr>
   <tr>
     <td><a href="http://noj.am/1085">1085</a></td>
@@ -384,12 +384,12 @@
   </tr>
   <tr>
     <td><a href="http://noj.am/1002">1002</a></td>
-    <td><img src="https://static.solved.ac/tier_small/6.svg" alt="Silver IV" width="10"/> 터렛</td>
+    <td><img src="https://static.solved.ac/tier_small/7.svg" alt="Silver IV" width="10"/> 터렛</td>
   </tr>
   <tr>
     <td>2021-06-01</td>
     <td><a href="http://noj.am/11653">11653</a></td>
-    <td><img src="https://static.solved.ac/tier_small/6.svg" alt="Silver IV" width="10"/> 소인수분해</td>
+    <td><img src="https://static.solved.ac/tier_small/7.svg" alt="Silver IV" width="10"/> 소인수분해</td>
   </tr>
   <tr>
     <td rowspan="2">2021-08-22</td>
@@ -403,11 +403,11 @@
   <tr>
     <td rowspan="6">2021-08-23</td>
     <td><a href="http://noj.am/2447">2447</a></td>
-    <td><img src="https://static.solved.ac/tier_small/9.svg" alt="Silver I" width="10"/> 별 찍기 - 10</td>
+    <td><img src="https://static.solved.ac/tier_small/10.svg" alt="Silver I" width="10"/> 별 찍기 - 10</td>
   </tr>
   <tr>
     <td><a href="http://noj.am/11729">11729</a></td>
-    <td><img src="https://static.solved.ac/tier_small/8.svg" alt="Silver II" width="10"/> 하노이 탑 이동 순서</td>
+    <td><img src="https://static.solved.ac/tier_small/9.svg" alt="Silver II" width="10"/> 하노이 탑 이동 순서</td>
   </tr>
   <tr>
     <td><a href="http://noj.am/2798">2798</a></td>
