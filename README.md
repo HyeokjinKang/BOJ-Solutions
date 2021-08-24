@@ -433,4 +433,9 @@
     <td><a href="http://noj.am/12091">12091</a></td>
     <td><img src="https://static.solved.ac/tier_small/0.svg" alt="None" width="10"/> 이브이 진화 시키기</td>
   </tr>
+  <tr>
+    <td rowspan="1">2021-08-24</td>
+    <td><a href="http://noj.am/1436">1436</a></td>
+    <td><img src="https://static.solved.ac/tier_small/6.svg" alt="Silver V" width="10"/> 영화감독 숌</td>
+  </tr>
 </table>
