@@ -434,7 +434,7 @@
     <td><img src="https://static.solved.ac/tier_small/0.svg" alt="None" width="10"/> 이브이 진화 시키기</td>
   </tr>
   <tr>
-    <td rowspan="3">2021-08-24</td>
+    <td rowspan="4">2021-08-24</td>
     <td><a href="http://noj.am/1436">1436</a></td>
     <td><img src="https://static.solved.ac/tier_small/6.svg" alt="Silver V" width="10"/> 영화감독 숌</td>
   </tr>
@@ -445,5 +445,9 @@
   <tr>
     <td><a href="http://noj.am/2750">2750</a></td>
     <td><img src="https://static.solved.ac/tier_small/5.svg" alt="Bronze I" width="10"/> 수 정렬하기</td>
+  </tr>
+  <tr>
+    <td><a href="http://noj.am/2751">2751</a></td>
+    <td><img src="https://static.solved.ac/tier_small/6.svg" alt="Silver V" width="10"/> 수 정렬하기 2</td>
   </tr>
 </table>
