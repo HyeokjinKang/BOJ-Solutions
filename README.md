@@ -451,8 +451,12 @@
     <td><img src="https://static.solved.ac/tier_small/6.svg" alt="Silver V" width="10"/> 수 정렬하기 2</td>
   </tr>
   <tr>
-    <td rowspan="1">2021-08-25</td>
+    <td rowspan="2">2021-08-25</td>
     <td><a href="http://noj.am/15802">15802</a></td>
     <td><img src="https://static.solved.ac/tier_small/0.svg" alt="None" width="10"/> 타노스</td>
+  </tr>
+  <tr>
+    <td><a href="http://noj.am/1181">1181</a></td>
+    <td><img src="https://static.solved.ac/tier_small/6.svg" alt="Silver V" width="10"/> 단어 정렬</td>
   </tr>
 </table>
