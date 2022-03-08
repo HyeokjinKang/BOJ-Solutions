@@ -477,7 +477,7 @@
     <td><img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="10"/> 오븐 시계</td>
   </tr>
   <tr>
-    <td><a href="http://noj.am/2480 ">2480</a></td>
+    <td><a href="http://noj.am/2480">2480</a></td>
     <td><img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="10"/> 주사위 세개</td>
   </tr>
 </table>
