@@ -463,4 +463,21 @@
     <td><a href="http://noj.am/10814">10814</a></td>
     <td><img src="https://static.solved.ac/tier_small/6.svg" alt="Silver V" width="10"/> 나이순 정렬</td>
   </tr>
+  <tr>
+    <td rowspan="4">2022-03-08</td>
+    <td><a href="http://noj.am/10926">10926</a></td>
+    <td><img src="https://static.solved.ac/tier_small/1.svg" alt="Bronze V" width="10"/> ??!</td>
+  </tr>
+  <tr>
+    <td><a href="http://noj.am/18108">18108</a></td>
+    <td><img src="https://static.solved.ac/tier_small/1.svg" alt="Bronze V" width="10"/> 1998년생인 내가 태국에서는 2541년생?!</td>
+  </tr>
+  <tr>
+    <td><a href="http://noj.am/2525">2525</a></td>
+    <td><img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="10"/> 오븐 시계</td>
+  </tr>
+  <tr>
+    <td><a href="http://noj.am/2480 ">2480</a></td>
+    <td><img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="10"/> 주사위 세개</td>
+  </tr>
 </table>
