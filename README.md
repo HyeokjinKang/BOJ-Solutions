@@ -481,7 +481,7 @@
     <td><img src="./svg/2.svg" width="10"/> 주사위 세개</td>
   </tr>
   <tr>
-    <td rowspan="4">2023-03-22</td>
+    <td rowspan="5">2023-03-22</td>
     <td><a href="http://noj.am/11382">11382</a></td>
     <td><img src="./svg/1.svg" width="10"/> 꼬마 정민</td>
   </tr>
@@ -496,5 +496,9 @@
   <tr>
     <td><a href="http://noj.am/10807">10807</a></td>
     <td><img src="./svg/1.svg" width="10"/> 개수 세기</td>
+  </tr>
+  <tr>
+    <td><a href="http://noj.am/10810">10810</a></td>
+    <td><img src="./svg/3.svg" width="10"/> 공 넣기</td>
   </tr>
 </table>
