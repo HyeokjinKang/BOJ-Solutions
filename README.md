@@ -481,7 +481,7 @@
     <td><img src="./svg/2.svg" width="10"/> 주사위 세개</td>
   </tr>
   <tr>
-    <td rowspan="7">2023-03-22</td>
+    <td rowspan="8">2023-03-22</td>
     <td><a href="http://noj.am/11382">11382</a></td>
     <td><img src="./svg/1.svg" width="10"/> 꼬마 정민</td>
   </tr>
@@ -508,5 +508,9 @@
   <tr>
     <td><a href="http://noj.am/5597">5597</a></td>
     <td><img src="./svg/1.svg" width="10"/> 과제 안 내신 분..?</td>
+  </tr>
+  <tr>
+    <td><a href="http://noj.am/10811">10811</a></td>
+    <td><img src="./svg/4.svg" width="10"/> 바구니 뒤집기</td>
   </tr>
 </table>
