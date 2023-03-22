@@ -1,2 +1,3 @@
 boj.config.json
 .boj-cache/
+.DS_STORE
