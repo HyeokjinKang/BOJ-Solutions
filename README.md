@@ -564,7 +564,7 @@
       <td><img src="./svg/4.svg" width="10"/> 바구니 순서 바꾸기</td>
     </tr>
     <tr>
-      <td rowspan="7">2023-03-28</td>
+      <td rowspan="9">2023-03-28</td>
       <td><a href="http://noj.am/10988">10988</a></td>
       <td><img src="./svg/4.svg" width="10"/> 팰린드롬인지 확인하기</td>
     </tr>
@@ -591,6 +591,14 @@
     <tr>
       <td><a href="http://noj.am/5086">5086</a></td>
       <td><img src="./svg/3.svg" width="10"/> 배수와 약수</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/2501">2501</a></td>
+      <td><img src="./svg/3.svg" width="10"/> 약수 구하기</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/9506">9506</a></td>
+      <td><img src="./svg/5.svg" width="10"/> 약수들의 합</td>
     </tr>
   </table>
 </details>
