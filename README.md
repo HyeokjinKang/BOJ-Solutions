@@ -531,7 +531,7 @@
       <td><img src="./svg/4.svg" width="10"/> 바구니 뒤집기</td>
     </tr>
     <tr>
-      <td rowspan="9">2023-03-23</td>
+      <td rowspan="8">2023-03-23</td>
       <td><a href="http://noj.am/27866">27866</a></td>
       <td><img src="./svg/1.svg" width="10"/> 문자와 문자열</td>
     </tr>
@@ -564,8 +564,33 @@
       <td><img src="./svg/4.svg" width="10"/> 바구니 순서 바꾸기</td>
     </tr>
     <tr>
+      <td rowspan="7">2023-03-28</td>
+      <td><a href="http://noj.am/10988">10988</a></td>
+      <td><img src="./svg/4.svg" width="10"/> 팰린드롬인지 확인하기</td>
+    </tr>
+    <tr>
       <td><a href="http://noj.am/25206">25206</a></td>
       <td><img src="./svg/6.svg" width="10"/> 너의 평점은</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/2738">2738</a></td>
+      <td><img src="./svg/1.svg" width="10"/> 행렬 덧셈</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/2566">2566</a></td>
+      <td><img src="./svg/3.svg" width="10"/> 최댓값</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/10798">10798</a></td>
+      <td><img src="./svg/5.svg" width="10"/> 세로읽기</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/2563">2563</a></td>
+      <td><img src="./svg/6.svg" width="10"/> 색종이</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/5086">5086</a></td>
+      <td><img src="./svg/3.svg" width="10"/> 배수와 약수</td>
     </tr>
   </table>
 </details>
