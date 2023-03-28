@@ -564,7 +564,7 @@
       <td><img src="./svg/4.svg" width="10"/> 바구니 순서 바꾸기</td>
     </tr>
     <tr>
-      <td rowspan="9">2023-03-28</td>
+      <td rowspan="11">2023-03-28</td>
       <td><a href="http://noj.am/10988">10988</a></td>
       <td><img src="./svg/4.svg" width="10"/> 팰린드롬인지 확인하기</td>
     </tr>
@@ -599,6 +599,14 @@
     <tr>
       <td><a href="http://noj.am/9506">9506</a></td>
       <td><img src="./svg/5.svg" width="10"/> 약수들의 합</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/27323">27323</a></td>
+      <td><img src="./svg/1.svg" width="10"/> 직사각형</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/15894">15894</a></td>
+      <td><img src="./svg/3.svg" width="10"/> 수학은 체육과목 입니다</td>
     </tr>
   </table>
 </details>
