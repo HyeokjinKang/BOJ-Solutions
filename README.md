@@ -608,5 +608,27 @@
       <td><a href="http://noj.am/15894">15894</a></td>
       <td><img src="./svg/3.svg" width="10"/> 수학은 체육과목 입니다</td>
     </tr>
+    <tr>
+      <td rowspan="4">2023-03-29</td>
+      <td><a href="http://noj.am/9063">9063</a></td>
+      <td><img src="./svg/3.svg" width="10"/> 대지</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/10101">10101</a></td>
+      <td><img src="./svg/2.svg" width="10"/> 삼각형 외우기</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/5073">5073</a></td>
+      <td><img src="./svg/3.svg" width="10"/> 삼각형과 세 변</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/14215">14215</a></td>
+      <td><img src="./svg/3.svg" width="10"/> 세 막대</td>
+    </tr>
+    <tr>
+      <td rowspan="11">2023-03-30</td>
+      <td><a href="http://noj.am/19532">19532</a></td>
+      <td><img src="./svg/3.svg" width="10"/> 수학은 비대면강의입니다</td>
+    </tr>
   </table>
 </details>
