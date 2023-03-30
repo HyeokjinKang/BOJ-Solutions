@@ -626,9 +626,21 @@
       <td><img src="./svg/3.svg" width="10"/> 세 막대</td>
     </tr>
     <tr>
-      <td rowspan="11">2023-03-30</td>
+      <td rowspan="4">2023-03-30</td>
       <td><a href="http://noj.am/19532">19532</a></td>
       <td><img src="./svg/4.svg" width="10"/> 수학은 비대면강의입니다</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/1259">1259</a></td>
+      <td><img src="./svg/5.svg" width="10"/> 팰린드롬수</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/2609">2609</a></td>
+      <td><img src="./svg/5.svg" width="10"/> 최대공약수와 최소공배수</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/11050">11050</a></td>
+      <td><img src="./svg/5.svg" width="10"/> 이항 계수 1</td>
     </tr>
   </table>
 </details>
