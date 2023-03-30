@@ -6,7 +6,13 @@ let a, b, c, d, e, f, x, y;
 
 rl.on("line", (line) => {
   [a, b, c, d, e, f] = line.split(" ").map(Number);
-  x = (c * e - f * b) / (a * e - d * b);
-  y = (c - a * x) / b;
+  if (b == 0) {
+    x = c / a;
+    y = (f - d * x) / e;
+  } else {
+    if (e == 0) x = f / d;
+    else x = (c * e - f * b) / (a * e - d * b);
+    y = (c - a * x) / b;
+  }
   console.log(x, y);
 });

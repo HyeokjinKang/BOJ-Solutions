@@ -628,7 +628,7 @@
     <tr>
       <td rowspan="11">2023-03-30</td>
       <td><a href="http://noj.am/19532">19532</a></td>
-      <td><img src="./svg/3.svg" width="10"/> 수학은 비대면강의입니다</td>
+      <td><img src="./svg/4.svg" width="10"/> 수학은 비대면강의입니다</td>
     </tr>
   </table>
 </details>
