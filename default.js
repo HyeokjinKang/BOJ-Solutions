@@ -1,5 +1,5 @@
-const rl = require("readline").createInterface(process.stdin, process.stdout);
+let fs = require("fs");
 
-rl.on("line", (line) => {
-  //DATA PROCESS HERE
-});
+let input = fs.readFileSync("/dev/stdin").toString().split("\n");
+
+//process.stdout.write()
