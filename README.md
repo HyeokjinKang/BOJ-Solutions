@@ -643,13 +643,17 @@
       <td><img src="./svg/5.svg" width="10"/> 이항 계수 1</td>
     </tr>
     <tr>
-      <td rowspan="2">2023-04-04</td>
+      <td rowspan="3">2023-04-04</td>
       <td><a href="http://noj.am/11650">11650</a></td>
       <td><img src="./svg/6.svg" width="10"/> 좌표 정렬하기</td>
     </tr>
     <tr>
       <td><a href="http://noj.am/2164">2164</a></td>
       <td><img src="./svg/7.svg" width="10"/> 카드 2</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/11866">11866</a></td>
+      <td><img src="./svg/6.svg" width="10"/> 요세푸스 문제 0</td>
     </tr>
   </table>
 </details>
