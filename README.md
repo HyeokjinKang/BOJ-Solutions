@@ -660,5 +660,13 @@
       <td><a href="http://noj.am/1920">1920</a></td>
       <td><img src="./svg/7.svg" width="10"/> 수 찾기</td>
     </tr>
+    <tr>
+      <td><a href="http://noj.am/9012">9012</a></td>
+      <td><img src="./svg/7.svg" width="10"/> 괄호</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/10816">10816</a></td>
+      <td><img src="./svg/7.svg" width="10"/> 숫자 카드 2</td>
+    </tr>
   </table>
 </details>
