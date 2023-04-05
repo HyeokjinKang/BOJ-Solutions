@@ -656,7 +656,7 @@
       <td><img src="./svg/6.svg" width="10"/> 요세푸스 문제 0</td>
     </tr>
     <tr>
-      <td rowspan="4">2023-04-05</td>
+      <td rowspan="6">2023-04-05</td>
       <td><a href="http://noj.am/1920">1920</a></td>
       <td><img src="./svg/7.svg" width="10"/> 수 찾기</td>
     </tr>
@@ -671,6 +671,14 @@
     <tr>
       <td><a href="http://noj.am/10828">10828</a></td>
       <td><img src="./svg/7.svg" width="10"/> 스택</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/10845">10845</a></td>
+      <td><img src="./svg/7.svg" width="10"/> 큐</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/10866">10866</a></td>
+      <td><img src="./svg/7.svg" width="10"/> 덱</td>
     </tr>
   </table>
 </details>
