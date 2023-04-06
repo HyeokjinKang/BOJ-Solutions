@@ -688,5 +688,26 @@
       <td><a href="http://noj.am/10773">10773</a></td>
       <td><img src="./svg/7.svg" width="10"/> 제로</td>
     </tr>
+    <tr>
+      <td rowspan="8">2023-04-06</td>
+      <td><a href="http://noj.am/10699">10699</a></td>
+      <td><img src="./svg/1.svg" width="10"/> 오늘 날짜</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/2420">2420</a></td>
+      <td><img src="./svg/1.svg" width="10"/> 사파리월드</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/2744">2744</a></td>
+      <td><img src="./svg/1.svg" width="10"/> 대소문자 바꾸기</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/2754">2754</a></td>
+      <td><img src="./svg/1.svg" width="10"/> 학점계산</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/15964">15964</a></td>
+      <td><img src="./svg/1.svg" width="10"/> 이상한 기호</td>
+    </tr>
   </table>
 </details>
