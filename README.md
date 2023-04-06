@@ -689,7 +689,7 @@
       <td><img src="./svg/7.svg" width="10"/> 제로</td>
     </tr>
     <tr>
-      <td rowspan="9">2023-04-06</td>
+      <td rowspan="10">2023-04-06</td>
       <td><a href="http://noj.am/10699">10699</a></td>
       <td><img src="./svg/1.svg" width="10"/> 오늘 날짜</td>
     </tr>
@@ -724,6 +724,10 @@
     <tr>
       <td><a href="http://noj.am/15829">15829</a></td>
       <td><img src="./svg/4.svg" width="10"/> Hashing</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/2108">2108</a></td>
+      <td><img src="./svg/8.svg" width="10"/> 통계학</td>
     </tr>
   </table>
 </details>
