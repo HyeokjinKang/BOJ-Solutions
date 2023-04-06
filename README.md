@@ -709,5 +709,17 @@
       <td><a href="http://noj.am/15964">15964</a></td>
       <td><img src="./svg/1.svg" width="10"/> 이상한 기호</td>
     </tr>
+    <tr>
+      <td><a href="http://noj.am/4949">4949</a></td>
+      <td><img src="./svg/7.svg" width="10"/> 균형잡힌 세상</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/1966">1966</a></td>
+      <td><img src="./svg/8.svg" width="10"/> 프린터 큐</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/10989">10989</a></td>
+      <td><img src="./svg/5.svg" width="10"/> 수 정렬하기 3</td>
+    </tr>
   </table>
 </details>
