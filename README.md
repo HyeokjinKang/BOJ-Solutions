@@ -729,5 +729,10 @@
       <td><a href="http://noj.am/2108">2108</a></td>
       <td><img src="./svg/8.svg" width="10"/> 통계학</td>
     </tr>
+    <tr>
+      <td rowspan="10">2023-04-09</td>
+      <td><a href="http://noj.am/1654">1654</a></td>
+      <td><img src="./svg/9.svg" width="10"/> 랜선 자르기</td>
+    </tr>
   </table>
 </details>
