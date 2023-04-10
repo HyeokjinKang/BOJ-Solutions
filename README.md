@@ -730,9 +730,18 @@
       <td><img src="./svg/8.svg" width="10"/> 통계학</td>
     </tr>
     <tr>
-      <td rowspan="10">2023-04-09</td>
+      <td>2023-04-09</td>
       <td><a href="http://noj.am/1654">1654</a></td>
       <td><img src="./svg/9.svg" width="10"/> 랜선 자르기</td>
+    </tr>
+    <tr>
+      <td rowspan="2">2023-04-10</td>
+      <td><a href="http://noj.am/1874">1874</a></td>
+      <td><img src="./svg/9.svg" width="10"/> 스택 수열</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/2805">2805</a></td>
+      <td><img src="./svg/9.svg" width="10"/> 나무 자르기</td>
     </tr>
   </table>
 </details>
