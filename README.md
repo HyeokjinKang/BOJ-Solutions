@@ -752,13 +752,21 @@
       <td><img src="./svg/6.svg" width="10"/> 팩토리얼 0의 개수</td>
     </tr>
     <tr>
-      <td rowspan="2">2023-04-11</td>
+      <td rowspan="4">2023-04-11</td>
       <td><a href="http://noj.am/11723">11723</a></td>
       <td><img src="./svg/6.svg" width="10"/> 집합</td>
     </tr>
     <tr>
       <td><a href="http://noj.am/1620">1620</a></td>
       <td><img src="./svg/7.svg" width="10"/> 나는야 포켓몬 마스터 이다솜</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/1764">1764</a></td>
+      <td><img src="./svg/7.svg" width="10"/> 듣보잡</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/11047">11047</a></td>
+      <td><img src="./svg/7.svg" width="10"/> 동전 0</td>
     </tr>
   </table>
 </details>
