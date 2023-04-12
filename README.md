@@ -768,5 +768,22 @@
       <td><a href="http://noj.am/11047">11047</a></td>
       <td><img src="./svg/7.svg" width="10"/> 동전 0</td>
     </tr>
+    <tr>
+      <td rowspan="4">2023-04-12</td>
+      <td><a href="http://noj.am/11399">11399</a></td>
+      <td><img src="./svg/7.svg" width="10"/> ATM</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/17219">17219</a></td>
+      <td><img src="./svg/7.svg" width="10"/> 비밀번호 찾기</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/1003">1003</a></td>
+      <td><img src="./svg/8.svg" width="10"/> 피보나치 함수</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/1463">1463</a></td>
+      <td><img src="./svg/8.svg" width="10"/> 1로 만들기</td>
+    </tr>
   </table>
 </details>
