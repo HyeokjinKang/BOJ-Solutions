@@ -786,7 +786,7 @@
       <td><img src="./svg/8.svg" width="10"/> 1로 만들기</td>
     </tr>
     <tr>
-      <td rowspan="3">2023-04-13</td>
+      <td rowspan="4">2023-04-13</td>
       <td><a href="http://noj.am/2579">2579</a></td>
       <td><img src="./svg/8.svg" width="10"/> 계단 오르기</td>
     </tr>
@@ -797,6 +797,10 @@
     <tr>
       <td><a href="http://noj.am/9095">9095</a></td>
       <td><img src="./svg/8.svg" width="10"/> 1, 2, 3 더하기</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/9375">9375</a></td>
+      <td><img src="./svg/8.svg" width="10"/> 패션왕 신해빈</td>
     </tr>
   </table>
 </details>
