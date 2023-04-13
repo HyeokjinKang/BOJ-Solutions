@@ -785,5 +785,10 @@
       <td><a href="http://noj.am/1463">1463</a></td>
       <td><img src="./svg/8.svg" width="10"/> 1로 만들기</td>
     </tr>
+    <tr>
+      <td rowspan="4">2023-04-13</td>
+      <td><a href="http://noj.am/2579">2579</a></td>
+      <td><img src="./svg/8.svg" width="10"/> 계단 오르기</td>
+    </tr>
   </table>
 </details>
