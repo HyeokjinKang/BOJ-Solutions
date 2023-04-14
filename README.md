@@ -803,13 +803,17 @@
       <td><img src="./svg/8.svg" width="10"/> 패션왕 신해빈</td>
     </tr>
     <tr>
-      <td rowspan="2">2023-04-14</td>
+      <td rowspan="3">2023-04-14</td>
       <td><a href="http://noj.am/11659">11659</a></td>
       <td><img src="./svg/8.svg" width="10"/> 구간 합 구하기 4</td>
     </tr>
     <tr>
       <td><a href="http://noj.am/11726">11726</a></td>
       <td><img src="./svg/8.svg" width="10"/> 2×n 타일링</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/11727">11727</a></td>
+      <td><img src="./svg/8.svg" width="10"/> 2×n 타일링 2</td>
     </tr>
   </table>
 </details>
