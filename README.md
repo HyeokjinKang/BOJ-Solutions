@@ -816,7 +816,7 @@
       <td><img src="./svg/8.svg" width="10"/> 2×n 타일링 2</td>
     </tr>
     <tr>
-      <td rowspan="3">2023-04-15</td>
+      <td rowspan="4">2023-04-15</td>
       <td><a href="http://noj.am/17626">17626</a></td>
       <td><img src="./svg/8.svg" width="10"/> Four squares</td>
     </tr>
@@ -827,6 +827,10 @@
     <tr>
       <td><a href="http://noj.am/1260">1260</a></td>
       <td><img src="./svg/9.svg" width="10"/> DFS와 BFS</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/1927">1927</a></td>
+      <td><img src="./svg/9.svg" width="10"/> 최소 힙</td>
     </tr>
   </table>
 </details>
