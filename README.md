@@ -815,5 +815,14 @@
       <td><a href="http://noj.am/11727">11727</a></td>
       <td><img src="./svg/8.svg" width="10"/> 2×n 타일링 2</td>
     </tr>
+    <tr>
+      <td rowspan="3">2023-04-15</td>
+      <td><a href="http://noj.am/17626">17626</a></td>
+      <td><img src="./svg/8.svg" width="10"/> Four squares</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/1012">1012</a></td>
+      <td><img src="./svg/9.svg" width="10"/> 유기농 배추</td>
+    </tr>
   </table>
 </details>
