@@ -824,5 +824,9 @@
       <td><a href="http://noj.am/1012">1012</a></td>
       <td><img src="./svg/9.svg" width="10"/> 유기농 배추</td>
     </tr>
+    <tr>
+      <td><a href="http://noj.am/1260">1260</a></td>
+      <td><img src="./svg/9.svg" width="10"/> DFS와 BFS</td>
+    </tr>
   </table>
 </details>
