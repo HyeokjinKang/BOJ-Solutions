@@ -832,5 +832,39 @@
       <td><a href="http://noj.am/1927">1927</a></td>
       <td><img src="./svg/9.svg" width="10"/> 최소 힙</td>
     </tr>
+    <tr>
+      <td rowspan="1">2023-04-16</td>
+      <td><a href="http://noj.am/1271">1271</a></td>
+      <td><img src="./svg/1.svg" width="10"/> 엄청난 부자2</td>
+    </tr>
+    <tr>
+      <td rowspan="7"><a href="https://www.acmicpc.net/contest/view/967">AGCU</a></td>
+      <td>A</td>
+      <td><img src="./svg/0.svg" width="10"/> 초코바</td>
+    </tr>
+    <tr>
+      <td>B</td>
+      <td><img src="./svg/0.svg" width="10"/> 사격내기</td>
+    </tr>
+    <tr>
+      <td>C</td>
+      <td><img src="./svg/0.svg" width="10"/> 고양이는 많을수록 좋다</td>
+    </tr>
+    <tr>
+      <td>D</td>
+      <td><img src="./svg/0.svg" width="10"/> 오렌지먹은지오랜지</td>
+    </tr>
+    <tr>
+      <td>E</td>
+      <td><img src="./svg/0.svg" width="10"/> 합금 주화</td>
+    </tr>
+    <tr>
+      <td>F</td>
+      <td><img src="./svg/0.svg" width="10"/> 콰트로치즈피자</td>
+    </tr>
+    <tr>
+      <td>K</td>
+      <td><img src="./svg/0.svg" width="10"/> I LOVE JavaScript</td>
+    </tr>
   </table>
 </details>
