@@ -867,13 +867,21 @@
       <td><img src="./svg/0.svg" width="10"/> I LOVE JavaScript</td>
     </tr>
     <tr>
-      <td rowspan="2">2023-04-17</td>
+      <td rowspan="4">2023-04-17</td>
       <td><a href="http://noj.am/1541">1541</a></td>
       <td><img src="./svg/9.svg" width="10"/> 잃어버린 괄호</td>
     </tr>
     <tr>
       <td><a href="http://noj.am/11279">11279</a></td>
       <td><img src="./svg/9.svg" width="10"/> 최대 힙</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/1780">1780</a></td>
+      <td><img src="./svg/9.svg" width="10"/> 종이의 개수</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/2745">2745</a></td>
+      <td><img src="./svg/4.svg" width="10"/> 진법 변환</td>
     </tr>
   </table>
 </details>
