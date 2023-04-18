@@ -839,31 +839,31 @@
     </tr>
     <tr>
       <td rowspan="7"><a href="https://www.acmicpc.net/contest/view/967">AGCU</a></td>
-      <td>A</td>
-      <td><img src="./svg/0.svg" width="10"/> 초코바</td>
+      <td><a href="http://noj.am/27959">A(27959)</a></td>
+      <td><img src="./svg/1.svg" width="10"/> 초코바</td>
     </tr>
     <tr>
-      <td>B</td>
-      <td><img src="./svg/0.svg" width="10"/> 사격내기</td>
+      <td><a href="http://noj.am/27960">B(27960)</a></td>
+      <td><img src="./svg/3.svg" width="10"/> 사격내기</td>
     </tr>
     <tr>
-      <td>C</td>
-      <td><img src="./svg/0.svg" width="10"/> 고양이는 많을수록 좋다</td>
+      <td><a href="http://noj.am/27961">C(27961)</a></td>
+      <td><img src="./svg/5.svg" width="10"/> 고양이는 많을수록 좋다</td>
     </tr>
     <tr>
-      <td>D</td>
-      <td><img src="./svg/0.svg" width="10"/> 오렌지먹은지오랜지</td>
+      <td><a href="http://noj.am/27962">D(27962)</a></td>
+      <td><img src="./svg/5.svg" width="10"/> 오렌지먹은지오랜지</td>
     </tr>
     <tr>
-      <td>E</td>
-      <td><img src="./svg/0.svg" width="10"/> 합금 주화</td>
+      <td><a href="http://noj.am/27963">E(27963)</a></td>
+      <td><img src="./svg/5.svg" width="10"/> 합금 주화</td>
     </tr>
     <tr>
-      <td>F</td>
-      <td><img src="./svg/0.svg" width="10"/> 콰트로치즈피자</td>
+      <td><a href="http://noj.am/27964">F(27964)</a></td>
+      <td><img src="./svg/6.svg" width="10"/> 콰트로치즈피자</td>
     </tr>
     <tr>
-      <td>K</td>
+      <td><a href="http://noj.am/27969">K(27969)</a></td>
       <td><img src="./svg/0.svg" width="10"/> I LOVE JavaScript</td>
     </tr>
     <tr>
