@@ -864,7 +864,7 @@
     </tr>
     <tr>
       <td><a href="http://noj.am/27969">K(27969)</a></td>
-      <td><img src="./svg/0.svg" width="10"/> I LOVE JavaScript</td>
+      <td><img src="./svg/8.svg" width="10"/> I LOVE JavaScript</td>
     </tr>
     <tr>
       <td rowspan="4">2023-04-17</td>
@@ -882,6 +882,23 @@
     <tr>
       <td><a href="http://noj.am/2745">2745</a></td>
       <td><img src="./svg/4.svg" width="10"/> 진법 변환</td>
+    </tr>
+    <tr>
+      <td rowspan="4">2023-04-18</td>
+      <td><a href="http://noj.am/2630">2630</a></td>
+      <td><img src="./svg/9.svg" width="10"/> 색종이 만들기</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/11724">11724</a></td>
+      <td><img src="./svg/9.svg" width="10"/> 연결 요소의 개수</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/18870">18870</a></td>
+      <td><img src="./svg/9.svg" width="10"/> 좌표 압축</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/1074">1074</a></td>
+      <td><img src="./svg/10.svg" width="10"/> Z</td>
     </tr>
   </table>
 </details>
