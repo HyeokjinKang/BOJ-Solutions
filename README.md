@@ -900,5 +900,22 @@
       <td><a href="http://noj.am/1074">1074</a></td>
       <td><img src="./svg/10.svg" width="10"/> Z</td>
     </tr>
+    <tr>
+      <td rowspan="4">2023-04-19</td>
+      <td><a href="http://noj.am/1809">1809</a></td>
+      <td><img src="./svg/1.svg" width="10"/> Moo</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/2338">2338</a></td>
+      <td><img src="./svg/1.svg" width="10"/> 긴자리 계산</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/2372">2372</a></td>
+      <td><img src="./svg/1.svg" width="10"/> Livestock Count</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/2377">2377</a></td>
+      <td><img src="./svg/1.svg" width="10"/> Pottery</td>
+    </tr>
   </table>
 </details>
