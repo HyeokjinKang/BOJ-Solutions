@@ -918,7 +918,7 @@
       <td><img src="./svg/1.svg" width="10"/> Pottery</td>
     </tr>
     <tr>
-      <td rowspan="14">2023-04-20</td>
+      <td rowspan="21">2023-04-20</td>
       <td><a href="http://noj.am/3733">3733</a></td>
       <td><img src="./svg/1.svg" width="10"/> Shares</td>
     </tr>
@@ -973,6 +973,34 @@
     <tr>
       <td><a href="http://noj.am/8871">8871</a></td>
       <td><img src="./svg/1.svg" width="10"/> Zadanie próbne 2</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/9653">9653</a></td>
+      <td><img src="./svg/1.svg" width="10"/> 스타워즈 로고</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/9654">9654</a></td>
+      <td><img src="./svg/1.svg" width="10"/> 나부 함대 데이터</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/10170">10170</a></td>
+      <td><img src="./svg/1.svg" width="10"/> NFC West vs North</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/10189">10189</a></td>
+      <td><img src="./svg/1.svg" width="10"/> Hook</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/11942">11942</a></td>
+      <td><img src="./svg/1.svg" width="10"/> 고려대는 사랑입니다</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/13277">13277</a></td>
+      <td><img src="./svg/1.svg" width="10"/> 큰 수 곱셈</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/14337">14337</a></td>
+      <td><img src="./svg/1.svg" width="10"/> Helicopter</td>
     </tr>
   </table>
 </details>
