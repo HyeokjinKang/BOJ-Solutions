@@ -1121,7 +1121,7 @@
       <td><img src="./svg/1.svg" width="10"/> 알고리즘 수업 - 알고리즘의 수행 시간 1</td>
     </tr>
     <tr>
-      <td rowspan="7">2023-04-24</td>
+      <td rowspan="25">2023-04-24</td>
       <td><a href="http://noj.am/24309">24309</a></td>
       <td><img src="./svg/1.svg" width="10"/> РАВЕНСТВО</td>
     </tr>
@@ -1172,6 +1172,59 @@
     <tr>
       <td><a href="http://noj.am/26574">26574</a></td>
       <td><img src="./svg/1.svg" width="10"/> Copier</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/26575">26575</a></td>
+      <td><img src="./svg/1.svg" width="10"/> Pups</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/26711">26711</a></td>
+      <td><img src="./svg/1.svg" width="10"/> A+B</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/26766">26766</a></td>
+      <td><img src="./svg/1.svg" width="10"/> Serca</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/27219">27219</a></td>
+      <td><img src="./svg/1.svg" width="10"/> Робинзон Крузо</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/27294">27294</a></td>
+      <td><img src="./svg/1.svg" width="10"/> 몇개고?</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/27889">27889</a></td>
+      <td><img src="./svg/1.svg" width="10"/> 특별한 학교 이름</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/27324">27324</a></td>
+      <td><img src="./svg/1.svg" width="10"/> ゾロ目 (Same Numbers)</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/27327">27327</a></td>
+      <td><img src="./svg/1.svg" width="10"/> 時間 (Hour)</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/27328">27328</a></td>
+      <td><img src="./svg/1.svg" width="10"/> 三方比較 (Three-Way Comparison)</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/27331">27331</a></td>
+      <td><img src="./svg/1.svg" width="10"/> 2 桁の整数 (Two-digit Integer)</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/27389">27389</a></td>
+      <td><img src="./svg/1.svg" width="10"/> Metronome</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/27433">27433</a></td>
+      <td><img src="./svg/1.svg" width="10"/> 팩토리얼 2</td>
+    </tr>
+    <tr>
+      <td rowspan="1">2023-04-25</td>
+      <td><a href="http://noj.am/27434">27434</a></td>
+      <td><img src="./svg/1.svg" width="10"/> 팩토리얼 3</td>
     </tr>
   </table>
 </details>
