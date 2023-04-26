@@ -1222,9 +1222,21 @@
       <td><img src="./svg/1.svg" width="10"/> 팩토리얼 2</td>
     </tr>
     <tr>
-      <td rowspan="1">2023-04-25</td>
+      <td rowspan="4">2023-04-25</td>
       <td><a href="http://noj.am/27434">27434</a></td>
       <td><img src="./svg/1.svg" width="10"/> 팩토리얼 3</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/1264">1264</a></td>
+      <td><img src="./svg/2.svg" width="10"/> 모음의 개수</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/2083">2083</a></td>
+      <td><img src="./svg/2.svg" width="10"/> 럭비 클럽</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/2393">2393</a></td>
+      <td><img src="./svg/2.svg" width="10"/> Rook</td>
     </tr>
   </table>
 </details>
