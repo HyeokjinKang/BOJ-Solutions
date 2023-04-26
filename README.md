@@ -1238,5 +1238,10 @@
       <td><a href="http://noj.am/2393">2393</a></td>
       <td><img src="./svg/2.svg" width="10"/> Rook</td>
     </tr>
+    <tr>
+      <td rowspan="1">2023-04-26</td>
+      <td><a href="http://noj.am/2440">2440</a></td>
+      <td><img src="./svg/2.svg" width="10"/> 별 찍기 - 3</td>
+    </tr>
   </table>
 </details>
