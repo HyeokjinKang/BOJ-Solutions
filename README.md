@@ -1244,9 +1244,13 @@
       <td><img src="./svg/2.svg" width="10"/> 별 찍기 - 3</td>
     </tr>
     <tr>
-      <td rowspan="1">2023-04-27</td>
+      <td rowspan="2">2023-04-27</td>
       <td><a href="http://noj.am/1931">1931</a></td>
       <td><img src="./svg/10.svg" width="10"/> 회의실 배정</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/1697">1697</a></td>
+      <td><img src="./svg/10.svg" width="10"/> 숨바꼭질</td>
     </tr>
   </table>
 </details>
