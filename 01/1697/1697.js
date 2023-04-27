@@ -1,32 +1,38 @@
 let fs = require("fs");
 let [start, end] = fs.readFileSync("/dev/stdin").toString().trim().split(" ").map(Number);
 
-let dist = [];
-dist[start] = 0;
+let visited = new Set();
 let willVisit = [start];
-let count = 0;
+let nowLevel = 0;
+let nextLevel = 1;
+let count = -1;
 while (1) {
-  let now = willVisit.pop();
-  let i = dist[now];
+  if (nowLevel == 0) {
+    count++;
+    nowLevel = nextLevel - 1;
+    nextLevel = 0;
+  } else {
+    nowLevel--;
+  }
+  let now = willVisit.shift();
   if (now == end) {
-    count = i;
     break;
   }
-  i++;
   let push = [];
-  if (now - 1 >= 0 && dist[now - 1] == undefined) {
+  if (now - 1 >= 0 && !visited.has(now - 1)) {
     push.push(now - 1);
-    dist[now - 1] = i;
+    visited.add(now - 1);
   }
-  if (now < end && dist[now + 1] == undefined) {
+  if (now < end && !visited.has(now + 1)) {
     push.push(now + 1);
-    dist[now + 1] = i;
+    visited.add(now + 1);
   }
-  if (now < end && dist[now * 2] == undefined) {
+  if (now != 0 && now * 2 <= 100000 && now < end && !visited.has(now * 2)) {
     push.push(now * 2);
-    dist[now * 2] = i;
+    visited.add(now * 2);
   }
-  willVisit = [...push, ...willVisit];
+  nextLevel += push.length;
+  willVisit.push(...push);
 }
 
 console.log(count);
