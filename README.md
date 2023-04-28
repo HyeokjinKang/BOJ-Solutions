@@ -1244,13 +1244,22 @@
       <td><img src="./svg/2.svg" width="10"/> 별 찍기 - 3</td>
     </tr>
     <tr>
-      <td rowspan="2">2023-04-27</td>
+      <td rowspan="3">2023-04-27</td>
       <td><a href="http://noj.am/1931">1931</a></td>
       <td><img src="./svg/10.svg" width="10"/> 회의실 배정</td>
     </tr>
     <tr>
       <td><a href="http://noj.am/1697">1697</a></td>
       <td><img src="./svg/10.svg" width="10"/> 숨바꼭질</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/2530">2530</a></td>
+      <td><img src="./svg/2.svg" width="10"/> 인공지능 시계</td>
+    </tr>
+    <tr>
+      <td rowspan="1">2023-04-28</td>
+      <td><a href="http://noj.am/7576">7576</a></td>
+      <td><img src="./svg/11.svg" width="10"/> 토마토</td>
     </tr>
   </table>
 </details>
