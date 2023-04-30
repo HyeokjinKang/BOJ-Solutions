@@ -1257,9 +1257,26 @@
       <td><img src="./svg/2.svg" width="10"/> 인공지능 시계</td>
     </tr>
     <tr>
-      <td rowspan="1">2023-04-28</td>
+      <td rowspan="4">2023-04-28</td>
       <td><a href="http://noj.am/7576">7576</a></td>
       <td><img src="./svg/11.svg" width="10"/> 토마토</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/2752">2752</a></td>
+      <td><img src="./svg/2.svg" width="10"/> 세수정렬</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/2845">2845</a></td>
+      <td><img src="./svg/2.svg" width="10"/> 파티가 끝나고 난 뒤</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/3046">3046</a></td>
+      <td><img src="./svg/2.svg" width="10"/> R2</td>
+    </tr>
+    <tr>
+      <td rowspan="1">2023-05-01</td>
+      <td><a href="http://noj.am/3765">3765</a></td>
+      <td><img src="./svg/2.svg" width="10"/> Celebrity jeopardy</td>
     </tr>
   </table>
 </details>
