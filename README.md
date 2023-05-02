@@ -1278,5 +1278,10 @@
       <td><a href="http://noj.am/3765">3765</a></td>
       <td><img src="./svg/2.svg" width="10"/> Celebrity jeopardy</td>
     </tr>
+    <tr>
+      <td rowspan="1">2023-05-02</td>
+      <td><a href="http://noj.am/4299">4299</a></td>
+      <td><img src="./svg/2.svg" width="10"/> AFC 윔블던</td>
+    </tr>
   </table>
 </details>
