@@ -1393,9 +1393,14 @@
       <td><img src="./svg/2.svg" width="10"/> Sqaures</td>
     </tr>
     <tr>
-      <td rowspan="8">2023-05-05</td>
+      <td rowspan="1">2023-05-05</td>
       <td><a href="http://noj.am/6888">6888</a></td>
       <td><img src="./svg/2.svg" width="10"/> Terms of Office</td>
+    </tr>
+    <tr>
+      <td rowspan="1">2023-05-06</td>
+      <td><a href="http://noj.am/6916">6916</a></td>
+      <td><img src="./svg/2.svg" width="10"/> 0123456789</td>
     </tr>
   </table>
 </details>
