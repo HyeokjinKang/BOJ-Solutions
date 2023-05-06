@@ -1,8 +1,10 @@
-# Nodejs-BOJ
+# Baekjoon-Online-Judge
 
 ![BOJSolution](./main.png)
 
-> Node.js를 이용한 Baekjoon Online Judge풀이
+> ~~Node.js를 이용한 Baekjoon Online Judge풀이~~
+
+> 이젠 Python으로 풉니다
 
 ## 푼 문제
 
@@ -385,6 +387,11 @@
   <summary>2021</summary>
   <table>
     <tr>
+      <th>날짜</th>
+      <th>문제번호</th>
+      <th>제목</th>
+    </tr>
+    <tr>
       <td rowspan="2">2021-01-08</td>
       <td><a href="http://noj.am/10757">10757</a></td>
       <td><img src="./svg/1.svg" width="10"/> 큰 수 A + B</td>
@@ -476,6 +483,11 @@
   <summary>2022</summary>
   <table>
     <tr>
+      <th>날짜</th>
+      <th>문제번호</th>
+      <th>제목</th>
+    </tr>
+    <tr>
       <td rowspan="4">2022-03-08</td>
       <td><a href="http://noj.am/10926">10926</a></td>
       <td><img src="./svg/1.svg" width="10"/> ??!</td>
@@ -497,6 +509,11 @@
 <details open>
   <summary>2023</summary>
   <table>
+    <tr>
+      <th>날짜</th>
+      <th>문제번호</th>
+      <th>제목</th>
+    </tr>
     <tr>
       <td rowspan="8">2023-03-22</td>
       <td><a href="http://noj.am/11382">11382</a></td>
@@ -1372,6 +1389,11 @@
     <tr>
       <td><a href="http://noj.am/6887">6887</a></td>
       <td><img src="./svg/2.svg" width="10"/> Sqaures</td>
+    </tr>
+    <tr>
+      <td rowspan="8">2023-05-05</td>
+      <td><a href="http://noj.am/6888">6888</a></td>
+      <td><img src="./svg/2.svg" width="10"/> Terms of Office</td>
     </tr>
   </table>
 </details>
