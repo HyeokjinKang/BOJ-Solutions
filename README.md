@@ -6,6 +6,8 @@
 
 > 이젠 Python으로 풉니다
 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyukjinkang)](https://solved.ac/hyukjinkang)
+
 ## 푼 문제
 
 <details>
