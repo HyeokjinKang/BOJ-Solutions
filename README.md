@@ -4,7 +4,7 @@
 
 > ~~Node.js를 이용한 Baekjoon Online Judge풀이~~
 
-> 이젠 Python으로 풉니다
+> 이젠 Python으로도 풉니다
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyukjinkang)](https://solved.ac/hyukjinkang)
 
@@ -1398,9 +1398,22 @@
       <td><img src="./svg/2.svg" width="10"/> Terms of Office</td>
     </tr>
     <tr>
-      <td rowspan="1">2023-05-06</td>
+      <td rowspan="3">2023-05-06</td>
       <td><a href="http://noj.am/6916">6916</a></td>
       <td><img src="./svg/2.svg" width="10"/> 0123456789</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/7595">7595</a></td>
+      <td><img src="./svg/2.svg" width="10"/> Triangles</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/8558">8558</a></td>
+      <td><img src="./svg/2.svg" width="10"/> Silnia</td>
+    </tr>
+    <tr>
+      <td rowspan="1">2023-05-07</td>
+      <td><a href="http://noj.am/8674">8674</a></td>
+      <td><img src="./svg/2.svg" width="10"/> Tabliczka</td>
     </tr>
   </table>
 </details>
