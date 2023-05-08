@@ -1416,9 +1416,21 @@
       <td><img src="./svg/2.svg" width="10"/> Tabliczka</td>
     </tr>
     <tr>
-      <td rowspan="1">2023-05-08</td>
+      <td rowspan="4">2023-05-08</td>
       <td><a href="http://noj.am/7569">7569</a></td>
       <td><img src="./svg/11.svg" width="10"/> 토마토</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/8710">8710</a></td>
+      <td><img src="./svg/2.svg" width="10"/> Koszykarz</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/8718">8718</a></td>
+      <td><img src="./svg/2.svg" width="10"/> Bałwanek</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/8723">8723</a></td>
+      <td><img src="./svg/2.svg" width="10"/> Patyki</td>
     </tr>
   </table>
 </details>

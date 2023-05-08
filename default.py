@@ -2,4 +2,4 @@ import sys
 input = sys.stdin.readline
 print = sys.stdout.write
 
-data = input().rstrip()
+data = map(int, input().rstrip().split())
