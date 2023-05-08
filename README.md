@@ -1415,5 +1415,10 @@
       <td><a href="http://noj.am/8674">8674</a></td>
       <td><img src="./svg/2.svg" width="10"/> Tabliczka</td>
     </tr>
+    <tr>
+      <td rowspan="1">2023-05-08</td>
+      <td><a href="http://noj.am/7569">7569</a></td>
+      <td><img src="./svg/11.svg" width="10"/> 토마토</td>
+    </tr>
   </table>
 </details>
