@@ -6,7 +6,9 @@
 
 > 이젠 Python으로도 풉니다
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyukjinkang)](https://solved.ac/hyukjinkang)
+<!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyukjinkang)](https://solved.ac/hyukjinkang) -->
+
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=hyukjinkang&theme=warm)
 
 ## 푼 문제
 
