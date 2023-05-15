@@ -8,7 +8,7 @@
 
 <!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyukjinkang)](https://solved.ac/hyukjinkang) -->
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=hyukjinkang&theme=warm)
+<a href="http://solved.ac/profile/hyukjinkang">![mazandi profile](http://mazandi.herokuapp.com/api?handle=hyukjinkang&theme=warm)</a>
 
 ## 푼 문제
 
