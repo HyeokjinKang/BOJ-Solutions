@@ -1480,9 +1480,25 @@
       <td><img src="./svg/2.svg" width="10"/> 알파벳 개수</td>
     </tr>
     <tr>
-      <td rowspan="1">2023-05-10</td>
+      <td rowspan="5">2023-05-10</td>
       <td><a href="http://noj.am/11121">11121</a></td>
       <td><img src="./svg/2.svg" width="10"/> Communication Channels</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/11257">11257</a></td>
+      <td><img src="./svg/2.svg" width="10"/> IT Passport Examination</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/11282">11282</a></td>
+      <td><img src="./svg/2.svg" width="10"/> 한글</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/11283">11283</a></td>
+      <td><img src="./svg/2.svg" width="10"/> 한글 2</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/11365">11365</a></td>
+      <td><img src="./svg/2.svg" width="10"/> !밀비 급일</td>
     </tr>
   </table>
 </details>
