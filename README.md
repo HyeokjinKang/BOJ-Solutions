@@ -1,14 +1,8 @@
-# Baekjoon-Online-Judge
-
 ![BOJSolution](./main.png)
-
-> ~~Node.js를 이용한 Baekjoon Online Judge풀이~~
-
-> 이젠 Python으로도 풉니다
 
 <!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyukjinkang)](https://solved.ac/hyukjinkang) -->
 
-<a href="http://solved.ac/profile/hyukjinkang">![mazandi profile](http://mazandi.herokuapp.com/api?handle=hyukjinkang&theme=warm)</a>
+<!-- <a href="http://solved.ac/profile/hyukjinkang">![mazandi profile](http://mazandi.herokuapp.com/api?handle=hyukjinkang&theme=warm)</a> -->
 
 ## 푼 문제
 
