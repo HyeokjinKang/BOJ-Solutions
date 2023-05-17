@@ -2,7 +2,7 @@
 
 <!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyukjinkang)](https://solved.ac/hyukjinkang) -->
 
-<!-- <a href="http://solved.ac/profile/hyukjinkang">![mazandi profile](http://mazandi.herokuapp.com/api?handle=hyukjinkang&theme=warm)</a> -->
+<a href="http://solved.ac/profile/hyukjinkang">![mazandi profile](http://mazandi.herokuapp.com/api?handle=hyukjinkang&theme=warm)</a>
 
 ## 푼 문제
 
@@ -1493,6 +1493,11 @@
     <tr>
       <td><a href="http://noj.am/11365">11365</a></td>
       <td><img src="./svg/2.svg" width="10"/> !밀비 급일</td>
+    </tr>
+    <tr>
+      <td rowspan="1">2023-05-17</td>
+      <td><a href="http://noj.am/1992">1992</a></td>
+      <td><img src="./svg/10.svg" width="10"/> 쿼드트리</td>
     </tr>
   </table>
 </details>
