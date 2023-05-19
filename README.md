@@ -1508,9 +1508,18 @@
       <td><img src="./svg/11.svg" width="10"/> Contact</td>
     </tr>
     <tr>
-      <td rowspan="1">2023-05-18</td>
+      <td rowspan="2">2023-05-18</td>
       <td><a href="http://noj.am/2178">2178</a></td>
       <td><img src="./svg/10.svg" width="10"/> 미로 탐색</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/5430">5430</a></td>
+      <td><img src="./svg/11.svg" width="10"/> AC</td>
+    </tr>
+    <tr>
+      <td rowspan="1">2023-05-19</td>
+      <td><a href="http://noj.am/2178">2178</a></td>
+      <td><img src="./svg/11.svg" width="10"/> 적록색약</td>
     </tr>
   </table>
 </details>
