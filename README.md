@@ -1517,9 +1517,13 @@
       <td><img src="./svg/11.svg" width="10"/> AC</td>
     </tr>
     <tr>
-      <td rowspan="1">2023-05-19</td>
+      <td rowspan="2">2023-05-19</td>
       <td><a href="http://noj.am/2178">2178</a></td>
       <td><img src="./svg/11.svg" width="10"/> 적록색약</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/5525">5525</a></td>
+      <td><img src="./svg/10.svg" width="10"/> IOIOI</td>
     </tr>
   </table>
 </details>
