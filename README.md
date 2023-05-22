@@ -1543,7 +1543,7 @@
       <td><img src="./svg/2.svg" width="10"/> 뜨거운 붕어빵</td>
     </tr>
     <tr>
-      <td rowspan="4">2023-05-21</td>
+      <td rowspan="3">2023-05-21</td>
       <td><a href="http://noj.am/28061">28061</a></td>
       <td><img src="./svg/3.svg" width="10"/> 레몬 따기</td>
     </tr>
@@ -1554,6 +1554,11 @@
     <tr>
       <td><a href="http://noj.am/28074">28074</a></td>
       <td><img src="./svg/2.svg" width="10"/> 모비스</td>
+    </tr>
+    <tr>
+      <td rowspan="1">2023-05-22</td>
+      <td><a href="http://noj.am/28078">28078</a></td>
+      <td><img src="./svg/9.svg" width="10"/> 중력 큐</td>
     </tr>
   </table>
 </details>
