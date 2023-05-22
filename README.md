@@ -1526,9 +1526,34 @@
       <td><img src="./svg/10.svg" width="10"/> IOIOI</td>
     </tr>
     <tr>
-      <td rowspan="1">2023-05-20</td>
+      <td rowspan="4">2023-05-20</td>
       <td><a href="http://noj.am/2667">2667</a></td>
       <td><img src="./svg/10.svg" width="10"/> 단지번호붙이기</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/11549">11549</a></td>
+      <td><img src="./svg/2.svg" width="10"/> Identifying tea</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/11943">11943</a></td>
+      <td><img src="./svg/2.svg" width="10"/> 파일 옮기기</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/11945">11945</a></td>
+      <td><img src="./svg/2.svg" width="10"/> 뜨거운 붕어빵</td>
+    </tr>
+    <tr>
+      <td rowspan="4">2023-05-21</td>
+      <td><a href="http://noj.am/28061">28061</a></td>
+      <td><img src="./svg/3.svg" width="10"/> 레몬 따기</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/28062">28062</a></td>
+      <td><img src="./svg/4.svg" width="10"/> 준석이의 사탕 사기</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/28074">28074</a></td>
+      <td><img src="./svg/2.svg" width="10"/> 모비스</td>
     </tr>
   </table>
 </details>
