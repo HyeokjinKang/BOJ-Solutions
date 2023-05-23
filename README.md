@@ -1560,5 +1560,10 @@
       <td><a href="http://noj.am/28078">28078</a></td>
       <td><img src="./svg/9.svg" width="10"/> 중력 큐</td>
     </tr>
+    <tr>
+      <td rowspan="1">2023-05-23</td>
+      <td><a href="http://noj.am/28113">28113</a></td>
+      <td><img src="./svg/1.svg" width="10"/> 정보섬의 대중교통</td>
+    </tr>
   </table>
 </details>
