@@ -1561,9 +1561,18 @@
       <td><img src="./svg/9.svg" width="10"/> 중력 큐</td>
     </tr>
     <tr>
-      <td rowspan="1">2023-05-23</td>
+      <td rowspan="2">2023-05-23</td>
       <td><a href="http://noj.am/28113">28113</a></td>
       <td><img src="./svg/1.svg" width="10"/> 정보섬의 대중교통</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/11948">11948</a></td>
+      <td><img src="./svg/2.svg" width="10"/> 과목선택</td>
+    </tr>
+    <tr>
+      <td rowspan="1">2023-05-24</td>
+      <td><a href="http://noj.am/13118">13118</a></td>
+      <td><img src="./svg/1.svg" width="10"/> 뉴턴과 사과</td>
     </tr>
   </table>
 </details>
