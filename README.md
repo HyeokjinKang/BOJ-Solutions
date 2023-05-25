@@ -1574,5 +1574,10 @@
       <td><a href="http://noj.am/13118">13118</a></td>
       <td><img src="./svg/1.svg" width="10"/> 뉴턴과 사과</td>
     </tr>
+    <tr>
+      <td rowspan="1">2023-05-25</td>
+      <td><a href="http://noj.am/23304">23304</a></td>
+      <td><img src="./svg/9.svg" width="10"/> 아카라카</td>
+    </tr>
   </table>
 </details>
