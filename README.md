@@ -1587,5 +1587,10 @@
       <td><a href="http://noj.am/9019">9019</a></td>
       <td><img src="./svg/12.svg" width="10"/> DSLR</td>
     </tr>
+    <tr>
+      <td rowspan="1">2023-05-26</td>
+      <td><a href="http://noj.am/11005">11005</a></td>
+      <td><img src="./svg/5.svg" width="10"/> 진법 변환 2</td>
+    </tr>
   </table>
 </details>
