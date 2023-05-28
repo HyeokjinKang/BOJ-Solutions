@@ -1595,7 +1595,7 @@
     <tr>
       <td rowspan="1">2023-05-28</td>
       <td><a href="http://noj.am/2407">2407</a></td>
-      <td><img src="./svg/5.svg" width="10"/> 조합</td>
+      <td><img src="./svg/8.svg" width="10"/> 조합</td>
     </tr>
   </table>
 </details>
