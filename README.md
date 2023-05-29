@@ -1597,5 +1597,10 @@
       <td><a href="http://noj.am/2407">2407</a></td>
       <td><img src="./svg/8.svg" width="10"/> 조합</td>
     </tr>
+    <tr>
+      <td rowspan="1">2023-05-29</td>
+      <td><a href="http://noj.am/1004">1004</a></td>
+      <td><img src="./svg/8.svg" width="10"/> 어린 왕자</td>
+    </tr>
   </table>
 </details>
