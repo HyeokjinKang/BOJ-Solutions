@@ -1598,13 +1598,17 @@
       <td><img src="./svg/8.svg" width="10"/> 조합</td>
     </tr>
     <tr>
-      <td rowspan="2">2023-05-29</td>
+      <td rowspan="3">2023-05-29</td>
       <td><a href="http://noj.am/1004">1004</a></td>
       <td><img src="./svg/8.svg" width="10"/> 어린 왕자</td>
     </tr>
     <tr>
       <td><a href="http://noj.am/1026">1026</a></td>
       <td><img src="./svg/7.svg" width="10"/> 보물</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/27966">27966</a></td>
+      <td><img src="./svg/8.svg" width="10"/> △</td>
     </tr>
   </table>
 </details>
