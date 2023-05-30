@@ -1610,5 +1610,10 @@
       <td><a href="http://noj.am/27966">27966</a></td>
       <td><img src="./svg/8.svg" width="10"/> △</td>
     </tr>
+    <tr>
+      <td rowspan="1">2023-05-30</td>
+      <td><a href="http://noj.am/2720">2720</a></td>
+      <td><img src="./svg/3.svg" width="10"/> 세탁소 사장 동혁</td>
+    </tr>
   </table>
 </details>
