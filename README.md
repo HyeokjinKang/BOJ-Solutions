@@ -1615,5 +1615,10 @@
       <td><a href="http://noj.am/2720">2720</a></td>
       <td><img src="./svg/3.svg" width="10"/> 세탁소 사장 동혁</td>
     </tr>
+    <tr>
+      <td rowspan="1">2023-05-31</td>
+      <td><a href="http://noj.am/2903">2903</a></td>
+      <td><img src="./svg/3.svg" width="10"/> 중앙 이동 알고리즘</td>
+    </tr>
   </table>
 </details>
