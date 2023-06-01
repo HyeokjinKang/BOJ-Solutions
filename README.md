@@ -1620,5 +1620,10 @@
       <td><a href="http://noj.am/2903">2903</a></td>
       <td><img src="./svg/3.svg" width="10"/> 중앙 이동 알고리즘</td>
     </tr>
+    <tr>
+      <td rowspan="1">2023-06-01</td>
+      <td><a href="http://noj.am/2587">2587</a></td>
+      <td><img src="./svg/4.svg" width="10"/> 대표값2</td>
+    </tr>
   </table>
 </details>
