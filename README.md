@@ -1625,5 +1625,10 @@
       <td><a href="http://noj.am/2587">2587</a></td>
       <td><img src="./svg/4.svg" width="10"/> 대표값2</td>
     </tr>
+    <tr>
+      <td rowspan="1">2023-06-03</td>
+      <td><a href="http://noj.am/25305">25305</a></td>
+      <td><img src="./svg/4.svg" width="10"/> 커트라인</td>
+    </tr>
   </table>
 </details>
