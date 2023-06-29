@@ -1630,5 +1630,10 @@
       <td><a href="http://noj.am/25305">25305</a></td>
       <td><img src="./svg/4.svg" width="10"/> 커트라인</td>
     </tr>
+    <tr>
+      <td rowspan="1">2023-06-30</td>
+      <td><a href="http://noj.am/1021">1021</a></td>
+      <td><img src="./svg/8.svg" width="10"/> 회전하는 큐</td>
+    </tr>
   </table>
 </details>
