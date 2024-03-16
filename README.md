@@ -504,7 +504,7 @@
     </tr>
   </table>
 </details>
-<details open>
+<details>
   <summary>2023</summary>
   <table>
     <tr>
@@ -1634,6 +1634,21 @@
       <td rowspan="1">2023-06-30</td>
       <td><a href="http://noj.am/1021">1021</a></td>
       <td><img src="./svg/8.svg" width="10"/> 회전하는 큐</td>
+    </tr>
+  </table>
+</details>
+<details open>
+  <summary>2024</summary>
+  <table>
+    <tr>
+      <th>날짜</th>
+      <th>문제번호</th>
+      <th>제목</th>
+    </tr>
+    <tr>
+      <td rowspan="1">2024-03-16</td>
+      <td><a href="http://noj.am/18110">18110</a></td>
+      <td><img src="./svg/7.svg" width="10"/> solved.ac</td>
     </tr>
   </table>
 </details>
