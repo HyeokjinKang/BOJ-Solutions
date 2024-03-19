@@ -1655,5 +1655,10 @@
       <td><a href="http://noj.am/2606">2606</a></td>
       <td><img src="./svg/8.svg" width="10"/> 바이러스</td>
     </tr>
+    <tr>
+      <td rowspan="1">2024-03-20</td>
+      <td><a href="http://noj.am/14940">14940</a></td>
+      <td><img src="./svg/10.svg" width="10"/> 쉬운 최단거리</td>
+    </tr>
   </table>
 </details>
