@@ -1650,5 +1650,10 @@
       <td><a href="http://noj.am/18110">18110</a></td>
       <td><img src="./svg/7.svg" width="10"/> solved.ac</td>
     </tr>
+    <tr>
+      <td rowspan="1">2024-03-19</td>
+      <td><a href="http://noj.am/2606">2606</a></td>
+      <td><img src="./svg/8.svg" width="10"/> 바이러스</td>
+    </tr>
   </table>
 </details>
