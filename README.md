@@ -1651,14 +1651,18 @@
       <td><img src="./svg/7.svg" width="10"/> solved.ac</td>
     </tr>
     <tr>
-      <td rowspan="1">2024-03-19</td>
+      <td rowspan="2">2024-03-19</td>
       <td><a href="http://noj.am/2606">2606</a></td>
       <td><img src="./svg/8.svg" width="10"/> 바이러스</td>
     </tr>
     <tr>
-      <td rowspan="1">2024-03-20</td>
       <td><a href="http://noj.am/14940">14940</a></td>
       <td><img src="./svg/10.svg" width="10"/> 쉬운 최단거리</td>
+    </tr>
+    <tr>
+      <td rowspan="1">2024-03-21</td>
+      <td><a href="http://noj.am/21736">21736</a></td>
+      <td><img src="./svg/10.svg" width="10"/> 헌내기는 친구가 필요해</td>
     </tr>
   </table>
 </details>
