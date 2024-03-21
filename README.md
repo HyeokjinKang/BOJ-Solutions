@@ -1660,9 +1660,13 @@
       <td><img src="./svg/10.svg" width="10"/> 쉬운 최단거리</td>
     </tr>
     <tr>
-      <td rowspan="1">2024-03-21</td>
+      <td rowspan="2">2024-03-21</td>
       <td><a href="http://noj.am/21736">21736</a></td>
-      <td><img src="./svg/10.svg" width="10"/> 헌내기는 친구가 필요해</td>
+      <td><img src="./svg/9.svg" width="10"/> 헌내기는 친구가 필요해</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/1389">1389</a></td>
+      <td><img src="./svg/10.svg" width="10"/> 케빈 베이컨의 6단계 법칙</td>
     </tr>
   </table>
 </details>
