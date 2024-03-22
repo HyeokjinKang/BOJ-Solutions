@@ -1668,5 +1668,10 @@
       <td><a href="http://noj.am/1389">1389</a></td>
       <td><img src="./svg/10.svg" width="10"/> 케빈 베이컨의 6단계 법칙</td>
     </tr>
+    <tr>
+      <td rowspan="1">2024-03-22</td>
+      <td><a href="http://noj.am/6064">6064</a></td>
+      <td><img src="./svg/10.svg" width="10"/> 카잉 달력</td>
+    </tr>
   </table>
 </details>
