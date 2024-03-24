@@ -1677,5 +1677,10 @@
       <td><a href="http://noj.am/11403">11403</a></td>
       <td><img src="./svg/10.svg" width="10"/> 경로 찾기</td>
     </tr>
+    <tr>
+      <td rowspan="1">2024-03-24</td>
+      <td><a href="http://noj.am/14500">14500</a></td>
+      <td><img src="./svg/12.svg" width="10"/> 테트로미노</td>
+    </tr>
   </table>
 </details>
