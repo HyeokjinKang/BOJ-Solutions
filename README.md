@@ -1682,5 +1682,10 @@
       <td><a href="http://noj.am/14500">14500</a></td>
       <td><img src="./svg/12.svg" width="10"/> 테트로미노</td>
     </tr>
+    <tr>
+      <td rowspan="1">2024-05-15</td>
+      <td><a href="http://noj.am/28075">28075</a></td>
+      <td><img src="./svg/8.svg" width="10"/> 스파이</td>
+    </tr>
   </table>
 </details>
