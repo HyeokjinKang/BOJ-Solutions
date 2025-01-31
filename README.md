@@ -2,7 +2,7 @@
 
 <!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyukjinkang)](https://solved.ac/hyukjinkang) -->
 
-<a href="http://solved.ac/profile/hyukjinkang">![mazandi profile](http://mazandi.herokuapp.com/api?handle=hyukjinkang&theme=warm)</a>
+<a href="http://solved.ac/profile/hyukjinkang">![mazandi profile](http://mazandi.herokuapp.com/api?handle=hyukjinkang&theme=dark)</a>
 
 ## 푼 문제
 
@@ -1637,7 +1637,7 @@
     </tr>
   </table>
 </details>
-<details open>
+<details>
   <summary>2024</summary>
   <table>
     <tr>
@@ -1686,6 +1686,38 @@
       <td rowspan="1">2024-05-15</td>
       <td><a href="http://noj.am/28075">28075</a></td>
       <td><img src="./svg/8.svg" width="10"/> 스파이</td>
+    </tr>
+  </table>
+</details>
+<details open>
+  <summary>2025</summary>
+  <table>
+    <tr>
+      <th>날짜</th>
+      <th>문제번호</th>
+      <th>제목</th>
+    </tr>
+    <tr>
+      <td rowspan="3">2025-01-30</td>
+      <td><a href="http://noj.am/31403">31403</a></td>
+      <td><img src="./svg/2.svg" width="10"/> A + B - C</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/30802">30802</a></td>
+      <td><img src="./svg/3.svg" width="10"/> 웰컴 키트</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/28702">28702</a></td>
+      <td><img src="./svg/5.svg" width="10"/> FizzBuzz</td>
+    </tr>
+    <tr>
+      <td rowspan="2">2025-01-31</td>
+      <td><a href="http://noj.am/30804">30804</a></td>
+      <td><img src="./svg/9.svg" width="10"/> 과일 탕후루</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/16928">16928</a></td>
+      <td><img src="./svg/11.svg" width="10"/> 뱀과 사다리 게임</td>
     </tr>
   </table>
 </details>
