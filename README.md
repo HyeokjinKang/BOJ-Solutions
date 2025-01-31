@@ -1711,13 +1711,17 @@
       <td><img src="./svg/5.svg" width="10"/> FizzBuzz</td>
     </tr>
     <tr>
-      <td rowspan="2">2025-01-31</td>
+      <td rowspan="3">2025-01-31</td>
       <td><a href="http://noj.am/30804">30804</a></td>
       <td><img src="./svg/9.svg" width="10"/> 과일 탕후루</td>
     </tr>
     <tr>
       <td><a href="http://noj.am/16928">16928</a></td>
       <td><img src="./svg/11.svg" width="10"/> 뱀과 사다리 게임</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/15650">15650</a></td>
+      <td><img src="./svg/8.svg" width="10"/> N과 M (2)</td>
     </tr>
   </table>
 </details>
