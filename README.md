@@ -1,7 +1,5 @@
 ![BOJSolution](./main.png)
 
-<!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyukjinkang)](https://solved.ac/hyukjinkang) -->
-
 <a href="http://solved.ac/profile/hyukjinkang">![mazandi profile](http://mazandi.herokuapp.com/api?handle=hyukjinkang&theme=dark)</a>
 
 ## 푼 문제
@@ -1722,6 +1720,11 @@
     <tr>
       <td><a href="http://noj.am/15650">15650</a></td>
       <td><img src="./svg/8.svg" width="10"/> N과 M (2)</td>
+    </tr>
+    <tr>
+      <td rowspan="3">2025-01-31</td>
+      <td><a href="http://noj.am/15652">15652</a></td>
+      <td><img src="./svg/8.svg" width="10"/> N과 M (3)</td>
     </tr>
   </table>
 </details>
