@@ -1722,7 +1722,7 @@
       <td><img src="./svg/8.svg" width="10"/> N과 M (2)</td>
     </tr>
     <tr>
-      <td rowspan="6">2025-01-31</td>
+      <td rowspan="7">2025-02-01</td>
       <td><a href="http://noj.am/15652">15652</a></td>
       <td><img src="./svg/8.svg" width="10"/> N과 M (4)</td>
     </tr>
@@ -1745,6 +1745,10 @@
     <tr>
       <td><a href="http://noj.am/15656">15656</a></td>
       <td><img src="./svg/8.svg" width="10"/> N과 M (7)</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/15657">15657</a></td>
+      <td><img src="./svg/8.svg" width="10"/> N과 M (8)</td>
     </tr>
   </table>
 </details>
