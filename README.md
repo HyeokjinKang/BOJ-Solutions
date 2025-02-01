@@ -1722,9 +1722,13 @@
       <td><img src="./svg/8.svg" width="10"/> N과 M (2)</td>
     </tr>
     <tr>
-      <td rowspan="3">2025-01-31</td>
+      <td rowspan="2">2025-01-31</td>
       <td><a href="http://noj.am/15652">15652</a></td>
       <td><img src="./svg/8.svg" width="10"/> N과 M (3)</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/15654">15654</a></td>
+      <td><img src="./svg/8.svg" width="10"/> N과 M (5)</td>
     </tr>
   </table>
 </details>
