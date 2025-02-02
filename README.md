@@ -1750,5 +1750,10 @@
       <td><a href="http://noj.am/15657">15657</a></td>
       <td><img src="./svg/8.svg" width="10"/> N과 M (8)</td>
     </tr>
+    <tr>
+      <td rowspan="1">2025-02-02</td>
+      <td><a href="http://noj.am/4134">4134</a></td>
+      <td><img src="./svg/7.svg" width="10"/> 다음 소수</td>
+    </tr>
   </table>
 </details>
