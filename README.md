@@ -1756,7 +1756,7 @@
       <td><img src="./svg/7.svg" width="10"/> 다음 소수</td>
     </tr>
     <tr>
-      <td rowspan="3">2025-02-03</td>
+      <td rowspan="4">2025-02-03</td>
       <td><a href="http://noj.am/11053">11053</a></td>
       <td><img src="./svg/9.svg" width="10"/> 가장 긴 증가하는 부분 수열</td>
     </tr>
@@ -1767,6 +1767,10 @@
     <tr>
       <td><a href="http://noj.am/11055">11055</a></td>
       <td><img src="./svg/9.svg" width="10"/> 가장 큰 증가하는 부분 수열</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/14002">14002</a></td>
+      <td><img src="./svg/12.svg" width="10"/> 가장 긴 증가하는 부분 수열 4</td>
     </tr>
   </table>
 </details>
