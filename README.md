@@ -1772,5 +1772,10 @@
       <td><a href="http://noj.am/14002">14002</a></td>
       <td><img src="./svg/12.svg" width="10"/> 가장 긴 증가하는 부분 수열 4</td>
     </tr>
+    <tr>
+      <td rowspan="1">2025-02-04</td>
+      <td><a href="http://noj.am/1759">1759</a></td>
+      <td><img src="./svg/11.svg" width="10"/> 암호 만들기</td>
+    </tr>
   </table>
 </details>
