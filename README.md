@@ -1777,5 +1777,10 @@
       <td><a href="http://noj.am/1759">1759</a></td>
       <td><img src="./svg/11.svg" width="10"/> 암호 만들기</td>
     </tr>
+    <tr>
+      <td rowspan="1">2025-02-05</td>
+      <td><a href="http://noj.am/15663">15663</a></td>
+      <td><img src="./svg/9.svg" width="10"/> N과 M (9)</td>
+    </tr>
   </table>
 </details>
