@@ -1799,5 +1799,10 @@
       <td><a href="http://noj.am/2441">2441</a></td>
       <td><img src="./svg/3.svg" width="10"/> 별 찍기 - 4</td>
     </tr>
+    <tr>
+      <td rowspan="1">2025-02-07</td>
+      <td><a href="http://noj.am/15963">15963</a></td>
+      <td><img src="./svg/1.svg" width="10"/> CASIO </td>
+    </tr>
   </table>
 </details>
