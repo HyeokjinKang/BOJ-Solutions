@@ -1794,5 +1794,10 @@
       <td><a href="http://noj.am/15666">15666</a></td>
       <td><img src="./svg/9.svg" width="10"/> N과 M (12)</td>
     </tr>
+    <tr>
+      <td rowspan="1">2025-02-06</td>
+      <td><a href="http://noj.am/2441">2441</a></td>
+      <td><img src="./svg/3.svg" width="10"/> 별 찍기 - 4</td>
+    </tr>
   </table>
 </details>
