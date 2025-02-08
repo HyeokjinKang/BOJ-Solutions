@@ -1802,7 +1802,12 @@
     <tr>
       <td rowspan="1">2025-02-07</td>
       <td><a href="http://noj.am/15963">15963</a></td>
-      <td><img src="./svg/1.svg" width="10"/> CASIO </td>
+      <td><img src="./svg/1.svg" width="10"/> CASIO</td>
+    </tr>
+    <tr>
+      <td rowspan="1">2025-02-08</td>
+      <td><a href="http://noj.am/11501">11501</a></td>
+      <td><img src="./svg/9.svg" width="10"/> 주식</td>
     </tr>
   </table>
 </details>
