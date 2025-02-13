@@ -1814,5 +1814,10 @@
       <td><a href="http://noj.am/1456">1456</a></td>
       <td><img src="./svg/11.svg" width="10"/> 거의 소수</td>
     </tr>
+    <tr>
+      <td rowspan="1">2025-02-13</td>
+      <td><a href="http://noj.am/11725">11725</a></td>
+      <td><img src="./svg/9.svg" width="10"/> 트리의 부모 찾기</td>
+    </tr>
   </table>
 </details>
