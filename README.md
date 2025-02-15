@@ -1824,5 +1824,10 @@
       <td><a href="http://noj.am/1934">1934</a></td>
       <td><img src="./svg/5.svg" width="10"/> 최소공배수</td>
     </tr>
+    <tr>
+      <td rowspan="1">2025-02-15</td>
+      <td><a href="http://noj.am/29759">29759</a></td>
+      <td><img src="./svg/11.svg" width="10"/> 서로소 스도쿠</td>
+    </tr>
   </table>
 </details>
