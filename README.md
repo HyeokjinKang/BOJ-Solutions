@@ -1819,5 +1819,10 @@
       <td><a href="http://noj.am/11725">11725</a></td>
       <td><img src="./svg/9.svg" width="10"/> 트리의 부모 찾기</td>
     </tr>
+    <tr>
+      <td rowspan="1">2025-02-14</td>
+      <td><a href="http://noj.am/1934">1934</a></td>
+      <td><img src="./svg/5.svg" width="10"/> 최소공배수</td>
+    </tr>
   </table>
 </details>
