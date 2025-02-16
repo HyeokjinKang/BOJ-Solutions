@@ -1829,5 +1829,10 @@
       <td><a href="http://noj.am/29759">29759</a></td>
       <td><img src="./svg/11.svg" width="10"/> 서로소 스도쿠</td>
     </tr>
+    <tr>
+      <td rowspan="1">2025-02-16</td>
+      <td><a href="http://noj.am/9205">9205</a></td>
+      <td><img src="./svg/11.svg" width="10"/> 맥주 마시면서 걸어가기</td>
+    </tr>
   </table>
 </details>
