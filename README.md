@@ -1834,5 +1834,10 @@
       <td><a href="http://noj.am/9205">9205</a></td>
       <td><img src="./svg/11.svg" width="10"/> 맥주 마시면서 걸어가기</td>
     </tr>
+    <tr>
+      <td rowspan="1">2025-02-18</td>
+      <td><a href="http://noj.am/1149">1149</a></td>
+      <td><img src="./svg/10.svg" width="10"/> RGB거리</td>
+    </tr>
   </table>
 </details>
