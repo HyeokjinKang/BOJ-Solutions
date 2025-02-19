@@ -1839,5 +1839,10 @@
       <td><a href="http://noj.am/1149">1149</a></td>
       <td><img src="./svg/10.svg" width="10"/> RGB거리</td>
     </tr>
+    <tr>
+      <td rowspan="1">2025-02-19</td>
+      <td><a href="http://noj.am/17129">17129</a></td>
+      <td><img src="./svg/10.svg" width="10"/> 윌리암슨수액빨이딱따구리가 정보섬에 올라온 이유</td>
+    </tr>
   </table>
 </details>
