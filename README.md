@@ -1866,5 +1866,32 @@
       <td><a href="http://noj.am/33574">33574</a></td>
       <td><img src="./svg/7.svg" width="10"/> 끊임없는 정렬과 창조함으로</td>
     </tr>
+    <tr>
+      <td rowspan="4">2025-08-10</td>
+      <td><a href="http://noj.am/16953">16953</a></td>
+      <td><img src="./svg/9.svg" width="10"/> A → B</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/1629">1629</a></td>
+      <td><img src="./svg/10.svg" width="10"/> 곱셈</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/1932">1932</a></td>
+      <td><img src="./svg/10.svg" width="10"/> 정수 삼각형</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/1991">1991</a></td>
+      <td><img src="./svg/10.svg" width="10"/> 트리 순회</td>
+    </tr>
+    <tr>
+      <td rowspan="1">2025-08-12</td>
+      <td><a href="http://noj.am/11660">11660</a></td>
+      <td><img src="./svg/10.svg" width="10"/> 구간 합 구하기 5</td>
+    </tr>
+    <tr>
+      <td rowspan="1">2025-08-13</td>
+      <td><a href="http://noj.am/9465">9465</a></td>
+      <td><img src="./svg/10.svg" width="10"/> 스티커</td>
+    </tr>
   </table>
 </details>
