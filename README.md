@@ -1685,6 +1685,11 @@
       <td><a href="http://noj.am/28075">28075</a></td>
       <td><img src="./svg/8.svg" width="10"/> 스파이</td>
     </tr>
+    <tr>
+      <td rowspan="1">2024-05-15</td>
+      <td><a href="http://noj.am/28075">28075</a></td>
+      <td><img src="./svg/8.svg" width="10"/> 스파이</td>
+    </tr>
   </table>
 </details>
 <details open>
@@ -1843,6 +1848,23 @@
       <td rowspan="1">2025-02-19</td>
       <td><a href="http://noj.am/17129">17129</a></td>
       <td><img src="./svg/10.svg" width="10"/> 윌리암슨수액빨이딱따구리가 정보섬에 올라온 이유</td>
+    </tr>
+    <tr>
+      <td rowspan="4">2025-03-14</td>
+      <td><a href="http://noj.am/33571">33571</a></td>
+      <td><img src="./svg/2.svg" width="10"/> 구멍</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/33572">33572</a></td>
+      <td><img src="./svg/4.svg" width="10"/> 자세히 보아야 예쁘다</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/33573">33573</a></td>
+      <td><img src="./svg/6.svg" width="10"/> 대칭제곱수</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/33574">33574</a></td>
+      <td><img src="./svg/7.svg" width="10"/> 끊임없는 정렬과 창조함으로</td>
     </tr>
   </table>
 </details>
