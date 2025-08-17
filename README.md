@@ -1898,5 +1898,14 @@
       <td><a href="http://noj.am/14626">14626</a></td>
       <td><img src="./svg/5.svg" width="10"/> ISBN</td>
     </tr>
+    <tr>
+      <td rowspan="2">2025-08-17</td>
+      <td><a href="http://noj.am/2206">2206</a></td>
+      <td><img src="./svg/13.svg" width="10"/> 벽 부수고 이동하기</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/14442">14442</a></td>
+      <td><img src="./svg/13.svg" width="10"/> 벽 부수고 이동하기 2</td>
+    </tr>
   </table>
 </details>
