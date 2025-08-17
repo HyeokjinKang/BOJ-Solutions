@@ -1893,5 +1893,10 @@
       <td><a href="http://noj.am/9465">9465</a></td>
       <td><img src="./svg/10.svg" width="10"/> 스티커</td>
     </tr>
+    <tr>
+      <td rowspan="1">2025-08-16</td>
+      <td><a href="http://noj.am/14626">14626</a></td>
+      <td><img src="./svg/5.svg" width="10"/> ISBN</td>
+    </tr>
   </table>
 </details>
