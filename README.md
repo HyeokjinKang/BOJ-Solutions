@@ -1912,5 +1912,10 @@
       <td><a href="http://noj.am/1916">1916</a></td>
       <td><img src="./svg/11.svg" width="10"/> 최소비용 구하기</td>
     </tr>
+    <tr>
+      <td rowspan="1">2025-09-07</td>
+      <td><a href="http://noj.am/2096">2096</a></td>
+      <td><img src="./svg/11.svg" width="10"/> 내려가기</td>
+    </tr>
   </table>
 </details>
