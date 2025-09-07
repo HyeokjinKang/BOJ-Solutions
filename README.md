@@ -1913,13 +1913,17 @@
       <td><img src="./svg/11.svg" width="10"/> 최소비용 구하기</td>
     </tr>
     <tr>
-      <td rowspan="2">2025-09-07</td>
+      <td rowspan="3">2025-09-07</td>
       <td><a href="http://noj.am/2096">2096</a></td>
       <td><img src="./svg/11.svg" width="10"/> 내려가기</td>
     </tr>
     <tr>
       <td><a href="http://noj.am/9251">9251</a></td>
       <td><img src="./svg/11.svg" width="10"/> LCS</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/12865">12865</a></td>
+      <td><img src="./svg/11.svg" width="10"/> 평범한 배낭</td>
     </tr>
   </table>
 </details>
