@@ -1907,5 +1907,10 @@
       <td><a href="http://noj.am/14442">14442</a></td>
       <td><img src="./svg/13.svg" width="10"/> 벽 부수고 이동하기 2</td>
     </tr>
+    <tr>
+      <td rowspan="1">2025-09-06</td>
+      <td><a href="http://noj.am/1916">1916</a></td>
+      <td><img src="./svg/11.svg" width="10"/> 최소비용 구하기</td>
+    </tr>
   </table>
 </details>
