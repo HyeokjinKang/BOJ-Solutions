@@ -1926,9 +1926,13 @@
       <td><img src="./svg/11.svg" width="10"/> 평범한 배낭</td>
     </tr>
     <tr>
-      <td rowspan="1">2025-09-15</td>
+      <td rowspan="2">2025-09-15</td>
       <td><a href="http://noj.am/15686">15686</a></td>
       <td><img src="./svg/11.svg" width="10"/> 치킨 배달</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/13549">13549</a></td>
+      <td><img src="./svg/11.svg" width="10"/> 숨바꼭질 3</td>
     </tr>
   </table>
 </details>
