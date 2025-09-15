@@ -1925,5 +1925,10 @@
       <td><a href="http://noj.am/12865">12865</a></td>
       <td><img src="./svg/11.svg" width="10"/> 평범한 배낭</td>
     </tr>
+    <tr>
+      <td rowspan="1">2025-09-15</td>
+      <td><a href="http://noj.am/15686">15686</a></td>
+      <td><img src="./svg/11.svg" width="10"/> 치킨 배달</td>
+    </tr>
   </table>
 </details>
