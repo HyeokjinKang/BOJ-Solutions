@@ -1939,5 +1939,10 @@
       <td><a href="http://noj.am/12851">12851</a></td>
       <td><img src="./svg/12.svg" width="10"/> 숨바꼭질 2</td>
     </tr>
+    <tr>
+      <td rowspan="1">2025-09-20</td>
+      <td><a href="http://noj.am/2448">2448</a></td>
+      <td><img src="./svg/12.svg" width="10"/> 별 찍기 - 11</td>
+    </tr>
   </table>
 </details>
