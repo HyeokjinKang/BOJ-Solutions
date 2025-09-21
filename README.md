@@ -1945,9 +1945,13 @@
       <td><img src="./svg/12.svg" width="10"/> 별 찍기 - 11</td>
     </tr>
     <tr>
-      <td rowspan="1">2025-09-21</td>
+      <td rowspan="2">2025-09-21</td>
       <td><a href="http://noj.am/17144">17144</a></td>
       <td><img src="./svg/12.svg" width="10"/> 미세먼지 안녕!</td>
+    </tr>
+    <tr>
+      <td><a href="http://noj.am/14938">14938</a></td>
+      <td><img src="./svg/12.svg" width="10"/> 서강그라운드</td>
     </tr>
   </table>
 </details>
