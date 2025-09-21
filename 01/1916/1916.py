@@ -13,7 +13,7 @@ for _ in range(m):
   a, b, c = map(int, input().rstrip().split())
   a -= 1
   b -= 1
-  if mtx[a][b] == -1 or mtx[a][b] > c:
+  if mtx[a][b] > c:
     mtx[a][b] = c
 
 frm, to = map(int, input().rstrip().split())
