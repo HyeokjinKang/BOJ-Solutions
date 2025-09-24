@@ -1953,5 +1953,10 @@
       <td><a href="http://noj.am/14938">14938</a></td>
       <td><img src="./svg/12.svg" width="10"/> 서강그라운드</td>
     </tr>
+    <tr>
+      <td rowspan="1">2025-09-24</td>
+      <td><a href="http://noj.am/1987">1987</a></td>
+      <td><img src="./svg/12.svg" width="10"/> 알파벳</td>
+    </tr>
   </table>
 </details>
