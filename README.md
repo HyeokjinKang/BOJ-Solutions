@@ -1958,5 +1958,10 @@
       <td><a href="http://noj.am/1987">1987</a></td>
       <td><img src="./svg/12.svg" width="10"/> 알파벳</td>
     </tr>
+    <tr>
+      <td rowspan="1">2025-09-27</td>
+      <td><a href="http://noj.am/17070">17070</a></td>
+      <td><img src="./svg/11.svg" width="10"/> 파이프 옮기기 1</td>
+    </tr>
   </table>
 </details>
